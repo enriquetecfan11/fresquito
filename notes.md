@@ -1,8 +1,4 @@
-**cronfile** : Este archivo contiene las configuraciones para el cron. Aquí se programará la ejecución periódica de `main.py`.
-
-0 * * * * root python3 /app/main.py
-
-Ejecutar esto para correr el contedor
+# Ejecutar esto para correr el contedor
 
 Construir la imagen Docker
 docker build -t mi-fresquito .
