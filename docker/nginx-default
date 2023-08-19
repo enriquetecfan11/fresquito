@@ -1,0 +1,8 @@
+server {
+    listen 80;
+    server_name fresquito-app;
+    location / {
+        root /app;
+        index index.nginx-debian.html;
+    }
+}

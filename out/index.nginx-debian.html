@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e861666816c8fb413c75ac35d93c2a74 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_e861666816c8fb413c75ac35d93c2a74" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_e861666816c8fb413c75ac35d93c2a74 = L.map(
+                "map_e861666816c8fb413c75ac35d93c2a74",
+                {
+                    center: [0, 0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 1,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_70de3546d0960aaaa3758d6c6a4482f3 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_e861666816c8fb413c75ac35d93c2a74);
+        
+    
+            var marker_80490666bfad7b773f6517ba549fa87b = L.marker(
+                [42.4534888, 1.1263192],
+                {}
+            ).addTo(map_e861666816c8fb413c75ac35d93c2a74);
+        
+    
+            var icon_600a53970bfcf250127dae30d42234cb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "glyphicon glyphicon-cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_80490666bfad7b773f6517ba549fa87b.setIcon(icon_600a53970bfcf250127dae30d42234cb);
+        
+    
+        var popup_713d8e5fb51cfafc5d407e1becce5f3e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8736e9a3527d74917c99d7abfbca8c80 = $(`<div id="html_8736e9a3527d74917c99d7abfbca8c80" style="width: 100.0%; height: 100.0%;">Surp, Lleida 15.0ºC</div>`)[0];
+                popup_713d8e5fb51cfafc5d407e1becce5f3e.setContent(html_8736e9a3527d74917c99d7abfbca8c80);
+            
+        
+
+        marker_80490666bfad7b773f6517ba549fa87b.bindPopup(popup_713d8e5fb51cfafc5d407e1becce5f3e)
+        ;
+
+        
+    
+    
+            var marker_625ae46b79e710c016e2acaecad1f08f = L.marker(
+                [36.7162109, -4.2793767],
+                {}
+            ).addTo(map_e861666816c8fb413c75ac35d93c2a74);
+        
+    
+            var icon_918d3803b8111dccbc5b53a3fb984dc3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "glyphicon glyphicon-fire", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_625ae46b79e710c016e2acaecad1f08f.setIcon(icon_918d3803b8111dccbc5b53a3fb984dc3);
+        
+    
+        var popup_b67d823cc93946f4eb1ade806d1e36c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bec66203d5506b6355c244b03a59b7cd = $(`<div id="html_bec66203d5506b6355c244b03a59b7cd" style="width: 100.0%; height: 100.0%;">Rincon de la Victoria, Málaga 34.0ºC</div>`)[0];
+                popup_b67d823cc93946f4eb1ade806d1e36c2.setContent(html_bec66203d5506b6355c244b03a59b7cd);
+            
+        
+
+        marker_625ae46b79e710c016e2acaecad1f08f.bindPopup(popup_b67d823cc93946f4eb1ade806d1e36c2)
+        ;
+
+        
+    
+    
+            map_e861666816c8fb413c75ac35d93c2a74.fitBounds(
+                [[42.4534888, 1.1263192], [36.7162109, -4.2793767]],
+                {}
+            );
+        
+</script>
+</html>
