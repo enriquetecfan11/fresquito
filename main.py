@@ -8,12 +8,14 @@ from geopy.geocoders import Nominatim
 import folium
 import csv
 import os
+import multiprocessing
 
-# Define the maximum number of parallel threads
-MAX_THREADS = 4  
+# Define the maximum number of parallel threads as half of available CPU cores
+MAX_THREADS = multiprocessing.cpu_count() // 2 
 
 # Number of locations to scrape // Max towns in DB 22080
-NUM_LOCATIONS = 5500  
+NUM_LOCATIONS = 1500  
+
 
 # CSV File to save data
 csv_filename = 'weather_data.csv'
@@ -93,8 +95,9 @@ def save_to_csv(data, filename):
 def main():
     global NUM_LOCATIONS  # Indicate that you are using the global variable
     print('Main function running...')
-    
-    
+    print(f"CPU Count:", multiprocessing.cpu_count())
+    print(f"Running with {MAX_THREADS} threads...")
+
     try:
         # Start Time Script
         start_time = datetime.datetime.now()
