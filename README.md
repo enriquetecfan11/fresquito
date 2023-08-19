@@ -1,19 +1,23 @@
-**cronfile** : Este archivo contiene las configuraciones para el cron. Aquí se programará la ejecución periódica de `main.py`.
 
-0 * * * * root python3 /app/main.py
+# Fresquito
 
-Ejecutar esto para correr el contedor
+A new app that takes all countries in Spain and get the most hot and the most cold town or city in real time
 
-Construir la imagen Docker
-docker build -t mi-fresquito .
 
-Ejecutar el contenedor
-docker run -d --name mi-contenedor mi-aplicacion
 
-Para exponer el puerto 80
+## Tech Stack
 
-docker run -d --name fresquito -p 80:80 fresquito
+**Client:** Python
 
-Sin detach
+**Server:** nginx, docker
 
-docker run -p 8080:80 --name fresquito fresquito
+
+## Authors
+
+- [@enriquetecfan11](https://www.github.com/enriquetecfan11)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at enriquemondejar15@gmail.com
+
