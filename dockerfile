@@ -22,5 +22,5 @@ RUN apt-get update && apt-get install -y nginx
 # Configurar Nginx para servir archivos estáticos
 COPY nginx-default /etc/nginx/sites-available/default
 
-# CMD para iniciar Nginx y ejecutar el script main.py cada 2 horas
-CMD service nginx start && while true; do python main.py; sleep 2h; done
+# CMD para iniciar Nginx y ejecutar el script main.py cada 1 hora
+CMD service nginx start && while true; do python main.py; sleep 1h; done
