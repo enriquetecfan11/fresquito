@@ -14,7 +14,7 @@ COPY town_index.csv /app/
 COPY index.nginx-debian.html /app/
 
 # Actualizar pip
-RUN pip install --upgrade pip
+RUN sudo pip install --upgrade pip
 
 # Ejecutar el script install.py para instalar las dependencias
 RUN python install.py
