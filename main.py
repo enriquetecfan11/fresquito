@@ -6,9 +6,18 @@ import threading
 import datetime
 from geopy.geocoders import Nominatim
 import folium
+import csv
+import os
 
-MAX_THREADS = 4  # Define the maximum number of parallel threads
-NUM_LOCATIONS = 1200  # Number of locations to scrape // Max towns in DB 22080
+# Define the maximum number of parallel threads
+MAX_THREADS = 4  
+
+# Number of locations to scrape // Max towns in DB 22080
+NUM_LOCATIONS = 5500  
+
+# CSV File to save data
+csv_filename = 'weather_data.csv'
+
 
 def geocode_location(town_name, province_name):
     """
@@ -60,6 +69,26 @@ def fetch_weather_data(pelmorex_id, meteo):
         meteo.append(temp_dict)
     except:
         pass
+    
+def save_to_csv(data, filename):
+    header = ['Type', 'Name', 'Province', 'Temperature', 'Date', 'Time']
+
+    now = datetime.datetime.now()
+    date = now.strftime('%Y-%m-%d')
+    time = now.strftime('%H:%M:%S')
+
+    data.update({'Date': date, 'Time': time})
+
+    # Check if the CSV file already exists
+    file_exists = os.path.exists(filename)
+
+    # Write data to CSV file
+    with open(filename, 'a', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=header)
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow(data)
+
 
 def main():
     global NUM_LOCATIONS  # Indicate that you are using the global variable
@@ -100,6 +129,26 @@ def main():
         # Geocode coldest and hottest towns
         c_coords = geocode_location(coldest['name'].iloc[0], coldest['province'].iloc[0])
         h_coords = geocode_location(hottest['name'].iloc[0], hottest['province'].iloc[0])
+
+        # Save hottest and coldest towns to CSV
+        
+        hottest_data = {
+        'Type': 'Hottest',
+        'Name': hottest['name'].iloc[0],
+        'Province': hottest['province'].iloc[0],
+        'Temperature': hottest['temp'].iloc[0]
+        }
+
+        coldest_data = {
+        'Type': 'Coldest',
+        'Name': coldest['name'].iloc[0],
+        'Province': coldest['province'].iloc[0],
+        'Temperature': coldest['temp'].iloc[0]
+        }
+
+        save_to_csv(hottest_data, csv_filename)
+        save_to_csv(coldest_data, csv_filename)
+
 
         if c_coords and h_coords:
             folium.Marker(location=c_coords,
