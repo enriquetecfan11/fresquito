@@ -12,6 +12,7 @@ COPY install.py /app/install.py
 COPY output.csv /app/
 COPY town_index.csv /app/
 COPY index.nginx-debian.html /app/
+COPY weather_data.csv /app/
 
 # Actualizar pip
 RUN sudo pip install --upgrade pip
