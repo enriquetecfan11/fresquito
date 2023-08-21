@@ -1,3 +1,10 @@
+"""
+This script scrapes weather data for a given list of locations in Spain and saves it to a CSV file.
+It uses the Pelmorex ID of each location to fetch the weather data from the El Tiempo website.
+The script also geocodes each location to get its latitude and longitude using the Nominatim API.
+The scraped data is saved to a CSV file with the following columns: 'TIPO', 'CIUDAD', 'PROVINCIA', 'GRADOS', 'FECHA', 'HORA UTC', 'HORA MADRID (UTC+2)'.
+The script also prints the coldest and hottest towns along with their temperature and creates a map using the Folium library.
+"""
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -14,7 +21,7 @@ import multiprocessing
 MAX_THREADS = multiprocessing.cpu_count() // 2 
 
 # Number of locations to scrape // Max towns in DB 22080
-NUM_LOCATIONS = 1000  
+NUM_LOCATIONS = 2000  
 
 # CSV File to save data
 csv_filename = 'datos_tiempo.csv'
@@ -194,16 +201,14 @@ def main():
 
             now = datetime.datetime.now()
             print('Map generated successfully on', str(now.day)+'-'+str(now.month)+'-'+str(now.year), 'at', str(now.hour)+':'+str(now.minute))
-            print('\n')
-            
+
             # Stop time script
             now = datetime.datetime.now()
             print('Process finished on', str(now.day)+'-'+str(now.month)+'-'+str(now.year), 'at', str(now.hour)+':'+str(now.minute))
-            print('\n')
-
+            
             # Script execution time
             print('Script execution time:', str(now - start_time))
-            print('\n') 
+            print('\n')
 
         else:
             print('Geocoding failed for coldest or hottest town.')
