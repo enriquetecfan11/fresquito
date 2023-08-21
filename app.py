@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, send_file
+from flask import Flask, request, jsonify, send_file, send_from_directory
 import csv
 import subprocess
 import os
@@ -56,7 +56,10 @@ def get_map():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-
+# Servir archivos estáticos desde la carpeta "interfaz"
+@app.route('/interfaz/<path:filename>', methods=['GET'])
+def serve_static(filename):
+    return send_from_directory('interfaz', filename)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
