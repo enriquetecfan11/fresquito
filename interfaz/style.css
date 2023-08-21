@@ -31,6 +31,8 @@ button {
 }
 
 table{
+  text-align: center;
+  align-items: center;
   border-collapse: collapse;
   width: 100%;
 }
