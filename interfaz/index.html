@@ -7,16 +7,21 @@
     <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
-    <header>
-        <h1>Welcome to Fresquito</h1>
-    </header>
-    <main>
-        <button id="runScript">Funcionamiento de la APP</button>
-        <button id="get-data">Obtener Datos Almacenados</button>
-        <button id="getMap">Visor del Mapa</button>
-        <div id="output"></div>
-        <div id="data-container"></div>
-    </main>
-    <script src="./index.js"></script>
+  <header>
+      <h1>Welcome to Fresquito</h1>
+  </header>
+  <main>
+      <button id="runScript">Funcionamiento de la APP</button>
+      <button id="get-data">Obtener Datos Almacenados</button>
+      <button id="getMap">Visor del Mapa</button>
+      <div id="output"></div>
+      <div id="data-container"></div>
+      <iframe id="map-iframe" style="display: none;"></iframe>
+      <div id="map-container">
+        <!-- Aquí se mostrará el iframe del mapa -->
+      </div>
+      
+  </main>
+  <script src="./index.js"></script>
 </body>
 </html>
