@@ -14,7 +14,7 @@ import multiprocessing
 MAX_THREADS = multiprocessing.cpu_count() // 2 
 
 # Number of locations to scrape // Max towns in DB 22080
-NUM_LOCATIONS = 1200  
+NUM_LOCATIONS = 300  
 
 
 # CSV File to save data
