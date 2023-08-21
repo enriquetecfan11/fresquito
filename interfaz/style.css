@@ -29,3 +29,62 @@ button {
 #output {
   margin-top: 1rem;
 }
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){
+  background-color: #dddddd;
+}
+
+/* Path: interfaz\style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+#output {
+  margin-top: 1rem;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}

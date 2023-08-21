@@ -37,8 +37,7 @@ document.getElementById('get-data').addEventListener('click', () => {
               <th>PROVINCIA</th>
               <th>GRADOS</th>
               <th>FECHA</th>
-              <th>HORA MADRID (UTC+2)</th>
-              <th>HORA UTC</th>
+              <th>HORA</th>
               <th>TIPO</th>
           `;
       table.appendChild(tableHeader);
@@ -54,7 +53,6 @@ document.getElementById('get-data').addEventListener('click', () => {
                   <td>${item.GRADOS}</td>
                   <td>${item.FECHA}</td>
                   <td>${item['HORA MADRID (UTC+2)']}</td>
-                  <td>${item['HORA UTC']}</td>
                   <td>${item.TIPO}</td>
               `;
         table.appendChild(tableRow);
