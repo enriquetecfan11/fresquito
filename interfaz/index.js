@@ -79,7 +79,7 @@ document.getElementById('getMap').addEventListener('click', () => {
   const iframe = document.createElement('iframe');
   iframe.src = `${BASE_URL}/get_map`;
   iframe.width = '100%'; // Ajusta el ancho del iframe
-  iframe.height = '500px'; // Ajusta la altura del iframe
+  iframe.height = '750px'; // Ajusta la altura del iframe
 
   // Limpia el contenido anterior y agrega el iframe al contenedor
   const mapContainer = document.getElementById('map-container');
