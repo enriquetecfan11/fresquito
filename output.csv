@@ -1,304 +1,304 @@
 url,pelmorex_id,name,province,coords,temp,timestamp
-https://www.eltiempo.es/mallecina.html,ESO1194,Mallecina,Asturias,"(43.4486049, -6.2560516)",19.0,2023-08-19 21:15
-https://www.eltiempo.es/arcocha.html,ESXX9534,Arcocha,Vizcaya,"(43.2616921, -2.9262609)",24.0,2023-08-19 21:25
-https://www.eltiempo.es/torrejon.html,ESXX16949,Torrejón,Teruel,"(41.1279977, -0.1457861)",30.0,2023-08-19 21:25
-https://www.eltiempo.es/pousacarro.html,ESXX11553,Pousacarro,A Coruña,"(42.6799704, -8.9830592)",20.0,2023-08-19 21:25
-https://www.eltiempo.es/lomo-pelado.html,ESXX12715,Lomo Pelado,Tenerife,"(28.4395342, -16.3684563)",24.0,2023-08-19 20:25
-https://www.eltiempo.es/fonteferreira.html,ESXX10487,Fonteferreira,Lugo,"(42.7217627, -7.0669567)",20.0,2023-08-19 21:25
-https://www.eltiempo.es/casillas-de-flores.html,ESXX1741,Casillas de Flores,Salamanca,"(40.3691075, -6.746380176006475)",31.0,2023-08-19 21:15
-https://www.eltiempo.es/ceclavin.html,ESXX0302,Ceclavín,Cáceres,"(39.8224249, -6.7734102)",34.0,2023-08-19 21:15
-https://www.eltiempo.es/lascellas.html,ESXX4751,Lascellas,Huesca,"(42.0777376, -0.0822942)",34.0,2023-08-19 21:25
-https://www.eltiempo.es/pombal.html,ESXX11540,Pombal,A Coruña,"(43.49277, -7.8095685)",21.0,2023-08-19 21:25
-https://www.eltiempo.es/cretas.html,ESXX20649,Cretas,Teruel,"(40.9288515, 0.2127041)",31.0,2023-08-19 21:15
-https://www.eltiempo.es/valles-de-valdavia.html,ESXX5455,Valles de Valdavia,Palencia,"(42.5818003, -4.6382561)",30.0,2023-08-19 21:25
-https://www.eltiempo.es/zorio.html,ESXX14302,Zorio,Albacete,"(38.6956142, -2.4000351)",33.0,2023-08-19 21:25
-https://www.eltiempo.es/almedijar.html,ESV0456,Almedíjar,Castellón,"(39.8723007, -0.4093054)",27.0,2023-08-19 21:15
-https://www.eltiempo.es/la-arnilla.html,ESXX15391,La Arnilla,Almería,"(37.2842402, -1.8602722)",31.0,2023-08-19 21:25
-https://www.eltiempo.es/pinuecar.html,ESM0176,Piñuécar,Madrid,"(41.0330624, -3.5993674)",33.0,2023-08-19 21:25
-https://www.eltiempo.es/seoane-vello.html,ESXX12005,Seoane Vello,Ourense,"(42.3247469, -7.5114483)",21.0,2023-08-19 21:25
-https://www.eltiempo.es/tramacastilla-de-tena.html,ESXX16929,Tramacastilla de Tena,Huesca,"(42.7138667, -0.3162481)",28.0,2023-08-19 21:15
-https://www.eltiempo.es/la-victoria.html,ESXX2348,La Victoria,Córdoba,"(37.6813142, -4.8531883)",38.0,2023-08-19 21:15
-https://www.eltiempo.es/fresnellino-del-monte.html,ESXX19112,Fresnellino del Monte,León,"(42.4430077, -5.6208511)",27.0,2023-08-19 21:25
-https://www.eltiempo.es/tremaya.html,ESXX16921,Tremaya,Palencia,"(42.9802775, -4.4613956)",29.0,2023-08-19 21:25
-https://www.eltiempo.es/els-cellers.html,ESXX8815,Els Cellers,Girona,"(42.3450211, 2.7984576)",29.0,2023-08-19 21:15
-https://www.eltiempo.es/zaratan.html,ESXX3601,Zaratán,Valladolid,"(41.6594549, -4.7833204)",31.0,2023-08-19 21:25
-https://www.eltiempo.es/en-provincia-albacete/villegas.html,ESXX14322,Villegas,Albacete,"(38.6050314, -1.5583875)",36.0,2023-08-19 21:25
-https://www.eltiempo.es/goas.html,ESXX13416,Goás,Lugo,"(43.3031565, -7.6767366)",20.0,2023-08-19 21:25
-https://www.eltiempo.es/el-guijar.html,ESXX8354,El Guijar,Segovia,"(41.2287796, -3.861358)",31.0,2023-08-19 21:25
-https://www.eltiempo.es/la-mata-de-monteagudo.html,ESXX18730,La Mata de Monteagudo,León,"(42.8391221, -5.0475721)",26.0,2023-08-19 21:25
-https://www.eltiempo.es/la-pava.html,ESMU0378,La Pava,Murcia,"(38.1703468, -1.9935485)",30.0,2023-08-19 21:25
-https://www.eltiempo.es/arbonies.html,ESNA0162,Arboniés,Navarra,"(42.6795983, -1.2529857)",32.0,2023-08-19 21:15
-https://www.eltiempo.es/chilches.html,ESV0151,Chilches,Castellón,"(39.782385, -0.1878358)",28.0,2023-08-19 21:15
-https://www.eltiempo.es/agoncillo.html,ESLO0080,Agoncillo,La Rioja,"(42.4451704, -2.2913654)",31.0,2023-08-19 21:25
-https://www.eltiempo.es/ubierna.html,ESXX14096,Ubierna,Burgos,"(42.4925375, -3.6989892)",28.0,2023-08-19 21:15
-https://www.eltiempo.es/brazuelo.html,ESXX5838,Brazuelo,León,"(42.4971632, -6.1571714)",26.0,2023-08-19 21:25
-https://www.eltiempo.es/salmeroncillos-de-abajo.html,ESXX2992,Salmeroncillos de Abajo,Cuenca,"(40.5046779, -2.5215533)",33.0,2023-08-19 21:25
-https://www.eltiempo.es/la-concepcion.html,ESXX12687,La Concepción,Badajoz,"(38.6226927, -5.904622)",36.0,2023-08-19 21:25
-https://www.eltiempo.es/san-antonio-de-benageber.html,ESV1240,San Antonio de Benagéber,Valencia,"(39.5619478, -0.5001275)",27.0,2023-08-19 21:15
-https://www.eltiempo.es/plegamans.html,ESXX11531,Plegamans,Barcelona,"(41.5873942, 2.1806823)",27.0,2023-08-19 21:25
-https://www.eltiempo.es/huesca.html,ESXX0191,Huesca,Huesca,"(42.1382539, -0.4080901)",36.0,2023-08-19 21:15
-https://www.eltiempo.es/huarte-araquil.html,ESNA0082,Huarte-Araquil,Navarra,"(42.9199485, -1.9687562)",27.0,2023-08-19 21:25
-https://www.eltiempo.es/ulldecona.html,ESXX0924,Ulldecona,Tarragona,"(40.5967567, 0.4475376)",28.0,2023-08-19 21:15
-https://www.eltiempo.es/castellar-de-la-selva.html,ESXX13187,Castellar de la Selva,Girona,"(41.9483784, 2.8695447)",27.0,2023-08-19 21:25
-https://www.eltiempo.es/caroceiro.html,ESO1796,Caroceiro,Asturias,"(43.4561763, -6.8711142)",19.0,2023-08-19 21:25
-https://www.eltiempo.es/marazoleja.html,ESXX6006,Marazoleja,Segovia,"(40.9608891, -4.3383896)",32.0,2023-08-19 21:15
-https://www.eltiempo.es/arantzazu.html,ESXX7723,Arantzazu,Vizcaya,"(43.156731, -2.7905895)",26.0,2023-08-19 21:15
-https://www.eltiempo.es/gargantiel.html,ESXX4344,Gargantiel,Ciudad Real,"(38.8084702, -4.7060191)",35.0,2023-08-19 21:25
-https://www.eltiempo.es/guijo.html,ESXX4354,Guijo,Córdoba,"(38.495977, -4.7831015)",34.0,2023-08-19 21:25
-https://www.eltiempo.es/zildotz.html,ESNA0381,Zildotz,Navarra,"(42.8776613, -1.6708167759364358)",29.0,2023-08-19 21:25
-https://www.eltiempo.es/villalengua.html,ESXX3462,Villalengua,Zaragoza,"(41.4354738, -1.8406491)",34.0,2023-08-19 21:25
-https://www.eltiempo.es/loma-de-ucieza.html,ESXX20762,Loma de Ucieza,Palencia,"(42.4771428, -4.578716473021888)",30.0,2023-08-19 21:25
-https://www.eltiempo.es/fuentes.html,ESXX4991,Fuentes,Cuenca,"(39.9503682, -2.0210007)",32.0,2023-08-19 21:25
-https://www.eltiempo.es/agustin.html,ESXX12910,Agustín,Lugo,"(42.9567788, -7.3149639)",,
-https://www.eltiempo.es/taurito.html,ESXX12829,Taurito,Las Palmas,"(27.8163849, -15.7517111)",,
-https://www.eltiempo.es/pedralba.html,ESV0211,Pedralba,Valencia,"(39.6053522, -0.7260062)",,
-https://www.eltiempo.es/matilla-de-arzon.html,ESXX6038,Matilla de Arzón,Zamora,"(42.1060915, -5.6415868)",,
-https://www.eltiempo.es/en-provincia-salamanca/cuellar.html,ESXX19358,Cuéllar,Salamanca,"(40.6386961, -6.6591439)",,
-https://www.eltiempo.es/mariana.html,ESXX2487,Mariana,Cuenca,"(40.1664999, -2.1450678)",,
-https://www.eltiempo.es/en-provincia-leon/tejedo.html,ESXX17015,Tejedo,León,"(42.8595405, -6.3549942)",,
-https://www.eltiempo.es/sant-miquel-de-pera.html,ESXX11887,Sant Miquel de Pera,Girona,"(42.2839166, 2.4950352)",,
-https://www.eltiempo.es/lidon.html,ESXX4386,Lidón,Teruel,"(40.7175307, -1.1124556)",,
-https://www.eltiempo.es/cenera-de-zalima.html,ESXX19512,Cenera de Zalima,Palencia,"(42.8153695, -4.3208147)",,
-https://www.eltiempo.es/estellencs.html,ESPM0206,Estellencs,Baleares,"(39.6535102, 2.4810336)",,
-https://www.eltiempo.es/torazo.html,ESO0571,Torazo,Asturias,"(43.394828, -5.4005827)",,
-https://www.eltiempo.es/quintanatello-de-ojeda.html,ESXX17742,Quintanatello de Ojeda,Palencia,"(42.7341647, -4.4574756)",,
-https://www.eltiempo.es/los-gabatos.html,ESMU0304,Los Gabatos,Murcia,"(37.6398988, -1.0079858)",,
-https://www.eltiempo.es/bolmente.html,ESXX13100,Bolmente,Lugo,"(42.4227736, -7.5898946)",,
-https://www.eltiempo.es/rionegro-del-puente.html,ESXX0578,Rionegro del Puente,Zamora,"(42.0055905, -6.2281127)",,
-https://www.eltiempo.es/canales-de-la-sierra.html,ESLO0118,Canales de la Sierra,La Rioja,"(42.1426201, -3.0251241)",,
-https://www.eltiempo.es/teilan.html,ESXX12131,Teilán,Lugo,"(42.6489551, -7.5129593)",,
-https://www.eltiempo.es/la-rambla-grande.html,ESXX15222,La Rambla Grande,Almería,"(36.8400831, -2.4606892560028277)",,
-https://www.eltiempo.es/calvera.html,ESXX19716,Calvera,Huesca,"(42.3879835, 0.6130516)",,
-https://www.eltiempo.es/campol.html,ESXX19683,Campol,Huesca,"(42.4985454, -0.0085749)",,
-https://www.eltiempo.es/torre-endomenech.html,ESV0373,Torre Endoménech,Castellón,"(40.2633725, 0.0701668)",,
-https://www.eltiempo.es/abrente.html,ESXX9372,Abrente,Lugo,"(42.9897454, -6.9733963)",,
-https://www.eltiempo.es/en-provincia-cuenca/don-benito.html,ESXX15864,Don Benito,Cuenca,"(40.1151163, -2.410344)",,
-https://www.eltiempo.es/ronfe.html,ESXX13902,Ronfe,Lugo,"(42.8438253, -7.4221674)",,
-https://www.eltiempo.es/munoveros.html,ESXX6286,Muñoveros,Segovia,"(41.1725058, -3.9522939)",,
-https://www.eltiempo.es/granatula-de-calatrava.html,ESXX2141,Granátula de Calatrava,Ciudad Real,"(38.7958912, -3.7429733)",,
-https://www.eltiempo.es/corsavell.html,ESXX8861,Corsavell,Girona,"(42.3126976, 2.6647278462113126)",,
-https://www.eltiempo.es/legarda.html,ESNA0313,Legarda,Navarra,"(42.7113388, -1.7727104)",,
-https://www.eltiempo.es/cordovin.html,ESLO0031,Cordovín,La Rioja,"(42.3848664, -2.8153541)",,
-https://www.eltiempo.es/villasrubias.html,ESXX3551,Villasrubias,Salamanca,"(40.3389758, -6.6383329)",,
-https://www.eltiempo.es/roquetes.html,ESXX6737,Roquetes,Tarragona,"(40.8203657, 0.50343)",,
-https://www.eltiempo.es/vall-de-gallinera.html,ESV0502,Vall de Gallinera,Alicante,"(38.825055899999995, -0.24215474935521797)",,
-https://www.eltiempo.es/torres-de-abajo.html,ESXX16940,Torres de Abajo,Burgos,"(42.9590667, -3.7916398)",,
-https://www.eltiempo.es/benillup.html,ESV0516,Benillup,Alicante,"(38.7535607, -0.3788159)",,
-https://www.eltiempo.es/en-provincia-murcia/el-puntal.html,ESMU0451,El Puntal,Murcia,"(38.0173547, -1.1473759)",,
-https://www.eltiempo.es/bardazoso.html,ESXX3940,Bardazoso,Jaén,"(38.0998825, -2.9262342)",,
-https://www.eltiempo.es/navarra/lakuntza.html,ESNA0686,Lakuntza,Navarra,"(42.9222192, -2.0227655)",,
-https://www.eltiempo.es/arcaute.html,ESXX12970,Arcaute,Álava,"(42.8514556, -2.6351692)",,
-https://www.eltiempo.es/bedua.html,ESXX8888,Bedua,Guipúzcoa,"(43.27917055, -2.254872485020865)",,
-https://www.eltiempo.es/canada-del-gamo.html,ESXX16124,Cañada del Gamo,Córdoba,"(38.2048761, -5.404825)",,
-https://www.eltiempo.es/miruena.html,ESXX11179,Mirueña,Ávila,"(40.7370387, -5.0911915)",,
-https://www.eltiempo.es/villalman.html,ESXX16605,Villalmán,León,"(42.4098756, -4.9865543)",,
-https://www.eltiempo.es/arrabal-de-portillo.html,ESXX8248,Arrabal de Portillo,Valladolid,"(41.4744315, -4.5924457)",,
-https://www.eltiempo.es/valdelaguna.html,ESM0136,Valdelaguna,Madrid,"(40.1605777, -3.367827)",,
-https://www.eltiempo.es/fontaciera.html,ESO1529,Fontaciera,Asturias,"(43.4792305, -5.7159126)",,
-https://www.eltiempo.es/alcocebre.html,ESV1307,Alcocebre,Castellón,"(40.2447466, 0.2755863)",,
-https://www.eltiempo.es/tordehumos.html,ESXX3236,Tordehumos,Valladolid,"(41.814441, -5.1576521)",,
-https://www.eltiempo.es/el-temple.html,ESXX4306,El Temple,Huesca,"(41.9749931, -0.7511956)",,
-https://www.eltiempo.es/bean.html,ESXX9707,Beán,A Coruña,"(43.01493065, -8.376238666502973)",,
-https://www.eltiempo.es/en-provincia-zaragoza/la-estacion.html,ESXX18784,La Estación,Zaragoza,"(41.229572, 0.1389493)",,
-https://www.eltiempo.es/el-hito.html,ESXX1946,El Hito,Cuenca,"(39.8589283, -2.7150172)",,
-https://www.eltiempo.es/lardeiros.html,ESXX10856,Lardeiros,A Coruña,"(42.9883424, -8.2982947)",,
-https://www.eltiempo.es/nocedo.html,ESO1055,Nocedo,Asturias,"(43.0432376, -6.7595659)",,
-https://www.eltiempo.es/en-provincia-burgos/bayas.html,ESXX19871,Bayas,Burgos,"(42.7022947, -2.9292127)",,
-https://www.eltiempo.es/crendes.html,ESXX10219,Crendes,A Coruña,"(43.26330915, -8.273537963614903)",,
-https://www.eltiempo.es/majuelos.html,ESXX18427,Majuelos,Salamanca,"(40.6532306, -6.6102971)",,
-https://www.eltiempo.es/vizcaya/santa-maria.html,ESXX11926,Santa María,Vizcaya,"(43.2573441, -2.8716438)",,
-https://www.eltiempo.es/navardun.html,ESXX2639,Navardún,Zaragoza,"(42.5128138, -1.1459925)",,
-https://www.eltiempo.es/sabugo.html,ESO0781,Sabugo,Asturias,"(43.5597119, -5.9233557)",,
-https://www.eltiempo.es/grandoso.html,ESXX19009,Grandoso,León,"(42.8504275, -5.2755011)",,
-https://www.eltiempo.es/pitres.html,ESXX2817,Pitres,Granada,"(36.9357242, -3.3259562)",,
-https://www.eltiempo.es/dehesa-de-cordovilla.html,ESXX19333,Dehesa de Cordovilla,Palencia,"(42.0689884, -4.2580791)",,
-https://www.eltiempo.es/huerta-del-rey.html,ESXX2215,Huerta del Rey,Burgos,"(41.80656535, -3.3631280593834223)",,
-https://www.eltiempo.es/freixido.html,ESXX10511,Freixido,Lugo,"(42.8999222, -7.3607006)",,
-https://www.eltiempo.es/chillaron-del-rey.html,ESXX4865,Chillarón del Rey,Guadalajara,"(40.5970133, -2.6898503)",,
-https://www.eltiempo.es/valmadrid.html,ESXX3375,Valmadrid,Zaragoza,"(41.4434021, -0.8844837)",,
-https://www.eltiempo.es/santa-barbara-de-casa.html,ESXX3062,Santa Bárbara de Casa,Huelva,"(37.7956688, -7.1885793)",,
-https://www.eltiempo.es/pedraza-de-yeltes.html,ESXX17969,Pedraza de Yeltes,Salamanca,"(40.7243977, -6.3404106)",,
-https://www.eltiempo.es/zuaztoi.html,ESNA0488,Zuaztoi,Navarra,"(43.1889654, -1.497119)",,
-https://www.eltiempo.es/mas-de-anton.html,ESXX18386,Mas de Antón,Teruel,"(40.1587179, -0.612272)",,
-https://www.eltiempo.es/mondron.html,ESXX20261,Mondrón,Málaga,"(36.9396056, -4.2280118)",,
-https://www.eltiempo.es/piera.html,ESXX2802,Piera,Barcelona,"(41.5216923, 1.7526335)",,
-https://www.eltiempo.es/abenojar.html,ESXX0451,Abenójar,Ciudad Real,"(38.8794942, -4.3557024)",,
-https://www.eltiempo.es/en-provincia-burgos/san-cristobal-del-monte.html,ESXX17439,San Cristóbal del Monte,Burgos,"(42.3988705, -3.1450463)",,
-https://www.eltiempo.es/aguas-candidas.html,ESXX7951,Aguas Cándidas,Burgos,"(42.7164495, -3.5030822)",,
-https://www.eltiempo.es/los-castellanos.html,ESXX14993,Los Castellanos,Granada,"(37.239242, -4.0959448)",,
-https://www.eltiempo.es/las-rubias.html,ESO1323,Las Rubias,Asturias,"(43.4271235, -6.3499469)",,
-https://www.eltiempo.es/en-provincia-leon/genestosa.html,ESXX19034,Genestosa,León,"(43.006321, -6.0099107)",,
-https://www.eltiempo.es/kripan.html,ESXX1870,Kripan,Álava,"(42.5919931, -2.5153878)",,
-https://www.eltiempo.es/gava.html,ESXX1285,Gavà,Barcelona,"(41.3050933, 2.0063126)",,
-https://www.eltiempo.es/en-provincia-jaen/capilla.html,ESXX16104,Capilla,Jaén,"(37.767630499999996, -3.7994257932967583)",,
-https://www.eltiempo.es/vilaflor.html,ESXX0937,Vilaflor,Tenerife,"(28.158776000000003, -16.64728118557438)",,
-https://www.eltiempo.es/tamariu.html,ESXX6672,Tamariu,Girona,"(41.9203698, 3.2068515)",,
-https://www.eltiempo.es/pradosegar.html,ESXX8185,Pradosegar,Ávila,"(40.5491266, -5.0697404)",,
-https://www.eltiempo.es/los-merinales.html,ESXX14928,Los Merinales,Sevilla,"(37.3104395, -5.9633067)",,
-https://www.eltiempo.es/las-salas.html,ESXX18609,Las Salas,León,"(42.9355981, -5.104368961943452)",,
-https://www.eltiempo.es/presencio.html,ESXX7958,Presencio,Burgos,"(42.1859701, -3.9013025)",,
-https://www.eltiempo.es/salardu.html,ESXX2981,Salardú,Lleida,"(42.7082581, 0.9049914)",,
-https://www.eltiempo.es/artosa.html,ESO2051,Artosa,Asturias,"(43.2947022, -5.662075)",,
-https://www.eltiempo.es/muga-de-alba.html,ESXX18210,Muga de Alba,Zamora,"(41.6733226, -6.0398748)",,
-https://www.eltiempo.es/gerbe.html,ESXX8545,Gerbe,Huesca,"(42.38347, 0.1836904)",,
-https://www.eltiempo.es/sesa.html,ESXX3137,Sesa,Huesca,"(41.9962961, -0.2442967)",,
-https://www.eltiempo.es/bargas.html,ESXX1504,Bargas,Toledo,"(39.9393212, -4.0201526)",,
-https://www.eltiempo.es/mentrida.html,ESXX2529,Méntrida,Toledo,"(40.2379032, -4.1945535)",,
-https://www.eltiempo.es/albuixech.html,ESV0567,Albuixech,Valencia,"(39.5442852, -0.3247783)",,
-https://www.eltiempo.es/nodalo.html,ESXX18151,Nódalo,Soria,"(41.6886019, -2.7637798)",,
-https://www.eltiempo.es/berducedo.html,ESO0032,Berducedo,Asturias,"(43.2331048, -6.7672319)",,
-https://www.eltiempo.es/novo-sancti-petri.html,ESXX21103,Novo Sancti Petri,Cádiz,"(36.3529279, -6.1612362)",,
-https://www.eltiempo.es/belbimbre.html,ESXX5529,Belbimbre,Burgos,"(42.168718, -4.0127101)",,
-https://www.eltiempo.es/la-corcolina.html,ESO1413,La Corcolina,Asturias,"(43.2836656, -6.5739869)",,
-https://www.eltiempo.es/moldones.html,ESXX18289,Moldones,Zamora,"(41.8417444, -6.484816)",,
-https://www.eltiempo.es/valdespino-ceron.html,ESXX4490,Valdespino Cerón,León,"(42.2597708, -5.3595082)",,
-https://www.eltiempo.es/almuniente.html,ESXX4626,Almuniente,Huesca,"(41.9508488, -0.412962)",,
-https://www.eltiempo.es/parets-de-dalt.html,ESXX11446,Parets de Dalt,Girona,"(42.169314, 2.8802161)",,
-https://www.eltiempo.es/riego-de-la-vega.html,ESXX2930,Riego de la Vega,León,"(42.388342, -5.9826151)",,
-https://www.eltiempo.es/lomo-alto.html,ESXX15047,Lomo Alto,Tenerife,"(28.3217231, -16.6212108)",,
-https://www.eltiempo.es/selviella.html,ESO0681,Selviella,Asturias,"(43.3214022, -6.2202982)",,
-https://www.eltiempo.es/santa-luzia.html,ESXX8972,Santa Luzia,Guipúzcoa,"(43.145359, -2.0708735)",,
-https://www.eltiempo.es/mozondiga.html,ESXX18214,Mozóndiga,León,"(42.4688783, -5.7091282)",,
-https://www.eltiempo.es/bajamar.html,ESXX1488,Bajamar,Tenerife,"(28.5538241, -16.3457221)",,
-https://www.eltiempo.es/monistrol-de-noya.html,ESXX11195,Monistrol de Noya,Barcelona,"(41.4550063, 1.784489)",,
-https://www.eltiempo.es/argujillo.html,ESXX1050,Argujillo,Zamora,"(41.3129372, -5.5864446)",,
-https://www.eltiempo.es/villamanan.html,ESXX3469,Villamañán,León,"(42.3221133, -5.5833776)",,
-https://www.eltiempo.es/estiche-de-cinca.html,ESXX4623,Estiche de Cinca,Huesca,"(41.8178531, 0.1234675)",,
-https://www.eltiempo.es/pradocabalos.html,ESXX13839,Pradocabalos,Ourense,"(42.1195836, -7.132175)",,
-https://www.eltiempo.es/mediana-de-aragon.html,ESXX7305,Mediana de Aragón,Zaragoza,"(41.4666749, -0.7074317)",,
-https://www.eltiempo.es/santibanez-del-rio.html,ESXX17238,Santibáñez del Río,Salamanca,"(40.9769678, -5.7209546)",,
-https://www.eltiempo.es/las-cefinas.html,ESXX12701,Las Cefiñas,Huelva,"(37.9669496, -6.8575696)",,
-https://www.eltiempo.es/pozuelo.html,ESXX2846,Pozuelo,Albacete,"(38.8093497, -2.101456)",,
-https://www.eltiempo.es/angoares.html,ESXX3644,Angoares,Pontevedra,"(42.164235, -8.5051807)",,
-https://www.eltiempo.es/sant-iscle-de-colltort.html,ESXX11811,Sant Iscle de Colltort,Girona,"(42.11938395, 2.5285996380379103)",,
-https://www.eltiempo.es/la-pobla-de-mafumet.html,ESXX7099,La Pobla de Mafumet,Tarragona,"(41.1865974, 1.2082805)",,
-https://www.eltiempo.es/urkia.html,ESXX8928,Urkia,Guipúzcoa,"(43.0871699, -2.1814154)",,
-https://www.eltiempo.es/salitja.html,ESXX13912,Salitja,Girona,"(41.9090284, 2.7475634)",,
-https://www.eltiempo.es/zuneda.html,ESXX5641,Zuñeda,Burgos,"(42.6048358, -3.2264746)",,
-https://www.eltiempo.es/valporquero-de-rueda.html,ESXX5898,Valporquero de Rueda,León,"(42.7509772, -5.2372873)",,
-https://www.eltiempo.es/abrera.html,ESXX7179,Abrera,Barcelona,"(41.5204464, 1.9024126)",,
-https://www.eltiempo.es/rubielos-bajos.html,ESXX14579,Rubielos Bajos,Cuenca,"(39.446119, -2.0384284)",,
-https://www.eltiempo.es/castellanos-de-castro.html,ESXX1748,Castellanos de Castro,Burgos,"(42.3289446, -4.033354)",,
-https://www.eltiempo.es/rus.html,ESXX2970,Rus,Jaén,"(38.0476731, -3.461804)",,
-https://www.eltiempo.es/latadal.html,ESXX10905,Latadal,Lugo,"(42.9546441, -7.2485899)",,
-https://www.eltiempo.es/garzain.html,ESNA0401,Garzáin,Navarra,"(43.1298357, -1.5366744)",,
-https://www.eltiempo.es/jagua.html,ESXX15428,Jagua,Tenerife,"(28.5336885, -16.1485389)",,
-https://www.eltiempo.es/pobar.html,ESXX5689,Pobar,Soria,"(41.890276, -2.2342701)",,
-https://www.eltiempo.es/santovenia-de-la-valdoncina.html,ESXX5931,Santovenia de la Valdoncina,León,"(42.5432895, -5.6238125)",,
-https://www.eltiempo.es/mamblas.html,ESXX6292,Mamblas,Ávila,"(41.020283, -5.0110468)",,
-https://www.eltiempo.es/moraton.html,ESXX14777,Moratón,Almería,"(37.1912541, -2.31042)",,
-https://www.eltiempo.es/pena-cuerna.html,ESXX17945,Peña Cuerna,Salamanca,"(40.7638872, -6.3408863)",,
-https://www.eltiempo.es/daner.html,ESO1652,Daner,Asturias,"(43.4400444, -6.2481882)",,
-https://www.eltiempo.es/san-martin-de-los-herreros.html,ESXX17376,San Martín de los Herreros,Palencia,"(42.8915621, -4.5937696)",,
-https://www.eltiempo.es/velilla-de-san-antonio.html,ESM0151,Velilla de San Antonio,Madrid,"(40.367166, -3.4874435)",,
-https://www.eltiempo.es/palomeque.html,ESXX7582,Palomeque,Toledo,"(40.1199294, -3.9635482)",,
-https://www.eltiempo.es/san-miguel-de-arganza.html,ESXX13941,San Miguel de Arganza,León,"(42.6497807, -6.686925)",,
-https://www.eltiempo.es/san-mamed.html,ESO0753,San Mamed,Asturias,"(43.2850075, -7.0054041)",,
-https://www.eltiempo.es/boadilla-del-monte.html,ESM0023,Boadilla del Monte,Madrid,"(40.4053485, -3.8764663)",,
-https://www.eltiempo.es/los-barreros.html,ESMU0321,Los Barreros,Murcia,"(37.628983, -0.9990152)",,
-https://www.eltiempo.es/san-tirso.html,ESXX11949,San Tirso,A Coruña,"(42.8329348, -8.8632915)",,
-https://www.eltiempo.es/bergua.html,ESXX19850,Bergua,Huesca,"(42.5342699, -0.1700995)",,
-https://www.eltiempo.es/zarzales.html,ESXX14304,Zarzales,Almería,"(37.1800436, -2.3265752)",,
-https://www.eltiempo.es/cardama.html,ESXX13165,Cardama,A Coruña,"(42.96818155, -8.361146332808788)",,
-https://www.eltiempo.es/penalba-de-castro.html,ESXX7966,Peñalba de Castro,Burgos,"(41.7887577, -3.3664027)",,
-https://www.eltiempo.es/galera.html,ESXX2106,Galera,Granada,"(37.7426081, -2.5507542)",,
-https://www.eltiempo.es/arman.html,ESXX12990,Armán,A Coruña,"(43.0176878, -8.9026488)",,
-https://www.eltiempo.es/mas-de-la-cabrera.html,ESXX11105,Mas de la Cabrera,Teruel,"(40.1545133, -1.2432845)",,
-https://www.eltiempo.es/el-pozuelo.html,ESXX4820,El Pozuelo,Cuenca,"(40.6201881, -2.2772876)",,
-https://www.eltiempo.es/valtravieso.html,ESXX16759,Valtravieso,Cáceres,"(39.4942097, -5.8637935)",,
-https://www.eltiempo.es/campanero.html,ESXX19699,Campanero,Salamanca,"(40.7002844, -6.5457143)",,
-https://www.eltiempo.es/portillo-de-toledo.html,ESXX0865,Portillo de Toledo,Toledo,"(40.0626338, -4.2273404)",,
-https://www.eltiempo.es/gillon.html,ESO0211,Gillón,Asturias,"(43.0251186, -6.5512821)",,
-https://www.eltiempo.es/pino-de-bureba.html,ESXX17886,Pino de Bureba,Burgos,"(42.7056353, -3.4321593)",,
-https://www.eltiempo.es/betan.html,ESXX9777,Betán,Ourense,"(42.2511356, -7.7134628)",,
-https://www.eltiempo.es/tinguaton.html,ESXX14445,Tinguatón,Las Palmas,"(29.0373981, -13.6867887)",,
-https://www.eltiempo.es/zubialde.html,ESXX14228,Zubialde,Vizcaya,"(43.1479702, -2.8496736)",,
-https://www.eltiempo.es/en-provincia-leon/san-justo.html,ESXX17405,San Justo,León,"(42.1343272, -6.6253752)",,
-https://www.eltiempo.es/minao-goien-minano-mayor.html,ESXX8588,Miñano Mayor,Álava,"(42.9114931, -2.6582152383516036)",,
-https://www.eltiempo.es/mainar.html,ESXX1418,Mainar,Zaragoza,"(41.1925768, -1.3027612)",,
-https://www.eltiempo.es/guipuzcoa/zubieta.html,ESXX14229,Zubieta,Guipúzcoa,"(43.270908, -2.0335418)",,
-https://www.eltiempo.es/pomar-de-valdivia.html,ESXX5504,Pomar de Valdivia,Palencia,"(42.7745019, -4.1674162)",,
-https://www.eltiempo.es/asturias/los-carriles.html,ESO1222,Los Carriles,Asturias,"(43.413978, -4.9296244)",,
-https://www.eltiempo.es/fuente-de-piedra.html,ESXX2069,Fuente de Piedra,Málaga,"(37.13528, -4.7298858)",,
-https://www.eltiempo.es/domeno.html,ESV1254,Domeño,Valencia,"(39.6600701, -0.6720763)",,
-https://www.eltiempo.es/en-provincia-lugo/lobios.html,ESXX8679,Lobios,Lugo,"(42.407446, -7.5303773)",,
-https://www.eltiempo.es/samir-de-los-canos.html,ESXX3002,Samir de los Caños,Zamora,"(41.6735174, -6.1637332)",,
-https://www.eltiempo.es/el-redal.html,ESLO0114,El Redal,La Rioja,"(42.3381358, -2.2009622)",,
-https://www.eltiempo.es/castellonroi-castillonroy.html,ESXX20864,Castillonroy,Huesca,"(41.8855983, 0.5143404)",,
-https://www.eltiempo.es/estremera.html,ESM0057,Estremera,Madrid,"(40.1847306, -3.1062403)",,
-https://www.eltiempo.es/en-provincia-leon/cerezal.html,ESXX19503,Cerezal,León,"(42.7085779, -6.1984251)",,
-https://www.eltiempo.es/vilada.html,ESXX3419,Vilada,Barcelona,"(42.1369132, 1.9315206)",,
-https://www.eltiempo.es/consuegra-de-murera.html,ESXX13258,Consuegra de Murera,Segovia,"(41.2585035, -3.7808497)",,
-https://www.eltiempo.es/el-garabato.html,ESXX15752,El Garabato,Córdoba,"(37.6819012, -4.9777852)",,
-https://www.eltiempo.es/surp.html,ESXX12097,Surp,Lleida,"(42.4534888, 1.1263192)",,
-https://www.eltiempo.es/masia-de-la-carrasca.html,ESV0679,Masía de la Carrasca,Castellón,"(40.445535050000004, -0.22296339586070982)",,
-https://www.eltiempo.es/trescasas.html,ESXX8329,Trescasas,Segovia,"(40.9632936, -4.0357823)",,
-https://www.eltiempo.es/bimenes.html,ESO0148,Bimenes,Asturias,"(43.325206449999996, -5.56708326368729)",,
-https://www.eltiempo.es/navarra/arteta.html,ESNA0367,Arteta,Navarra,"(42.8612002, -1.8699075)",,
-https://www.eltiempo.es/pedro-munoz.html,ESXX1216,Pedro Muñoz,Ciudad Real,"(39.4060954, -2.9474164)",,
-https://www.eltiempo.es/calleja.html,ESXX9908,Calleja,Vizcaya,"(43.1752098, -3.3593764)",,
-https://www.eltiempo.es/otinar.html,ESXX14734,Otiñar,Jaén,"(37.6805509, -3.757605)",,
-https://www.eltiempo.es/pedralbes.html,ESXX8737,Pedralbes,Barcelona,"(41.3901401, 2.112218)",,
-https://www.eltiempo.es/telena.html,ESO0591,Teleña,Asturias,"(43.33254, -5.0478842)",,
-https://www.eltiempo.es/almazora.html,ESV0454,Almazora,Castellón,"(39.9435743, -0.0634783)",,
-https://www.eltiempo.es/aladren.html,ESXX4762,Aladrén,Zaragoza,"(41.2492023, -1.1557811)",,
-https://www.eltiempo.es/miranda-de-duero.html,ESXX18301,Miranda de Duero,Soria,"(41.6507973, -2.4150273)",,
-https://www.eltiempo.es/horno-ciego.html,ESXX15467,Horno Ciego,Albacete,"(38.4299296, -2.2193544)",,
-https://www.eltiempo.es/en-provincia-avila/monte-alto.html,ESXX18267,Monte Alto,Ávila,"(41.1178112, -5.1070762)",,
-https://www.eltiempo.es/estacion-de-huetor-tajar.html,ESXX12662,Estación de Huétor-Tájar,Granada,"(37.2033551, -4.0610285)",,
-https://www.eltiempo.es/villarraso.html,ESXX8089,Villarraso,Soria,"(41.8920429, -2.2095992)",,
-https://www.eltiempo.es/horno-robledo.html,ESXX18921,Horno Robledo,Ávila,"(40.3825365, -4.7687531)",,
-https://www.eltiempo.es/lacort.html,ESXX18800,Lacort,Huesca,"(42.4223542, 0.3192418)",,
-https://www.eltiempo.es/matas-altas.html,ESXX18365,Matas Altas,Salamanca,"(40.8074736, -5.9325072)",,
-https://www.eltiempo.es/en-provincia-leon/viloria.html,ESXX16388,Viloria,León,"(41.445392, -4.3827406)",,
-https://www.eltiempo.es/roderos.html,ESXX17549,Roderos,León,"(42.4958615, -5.4871197)",,
-https://www.eltiempo.es/hoya-de-santa-ana.html,ESXX15456,Hoya de Santa Ana,Albacete,"(38.6860229, -1.5695625)",,
-https://www.eltiempo.es/solera.html,ESXX5143,Solera,Jaén,"(37.6835537, -3.3692242)",,
-https://www.eltiempo.es/maia-de-montcal.html,ESXX6593,Maià de Montcal,Girona,"(42.2221769, 2.7431144)",,
-https://www.eltiempo.es/tinajas.html,ESXX3219,Tinajas,Cuenca,"(40.3258732, -2.5812709)",,
-https://www.eltiempo.es/nograro.html,ESXX11300,Nograro,Álava,"(42.824524600000004, -3.1098728873701034)",,
-https://www.eltiempo.es/montuerto.html,ESXX18251,Montuerto,León,"(42.8854031, -5.3932776)",,
-https://www.eltiempo.es/alcazaren.html,ESXX6092,Alcazarén,Valladolid,"(41.3709297, -4.6715674)",,
-https://www.eltiempo.es/sorbas.html,ESXX0503,Sorbas,Almería,"(37.098183, -2.1239548)",,
-https://www.eltiempo.es/celada.html,ESO1753,Celada,Asturias,"(43.426245, -5.4594277)",,
-https://www.eltiempo.es/la-gavarra.html,ESXX10785,La Gavarra,Lleida,"(42.1337613, 1.1838551)",,
-https://www.eltiempo.es/lodas.html,ESXX10992,Lodás,Lugo,"(43.2682358, -7.2644738)",,
-https://www.eltiempo.es/guingueta.html,ESXX10658,Guingueta,Lleida,"(42.5945266, 1.1313477)",,
-https://www.eltiempo.es/son-espanyol.html,ESPM0145,Son Espanyol,Baleares,"(39.6285841, 2.6424628595510007)",,
-https://www.eltiempo.es/altzai.html,ESXX9301,Altzai,Guipúzcoa,"(43.0509324, -2.0619509)",,
-https://www.eltiempo.es/higuera-de-las-duenas.html,ESXX6128,Higuera de las Dueñas,Ávila,"(40.2395323, -4.6032406)",,
-https://www.eltiempo.es/saludes-de-castroponce.html,ESXX17476,Saludes de Castroponce,León,"(42.1564063, -5.7441621)",,
-https://www.eltiempo.es/navalvillar-de-ibor.html,ESXX2637,Navalvillar de Ibor,Cáceres,"(39.5849648, -5.4130536)",,
-https://www.eltiempo.es/vila-sacra.html,ESXX7097,Vila-sacra,Girona,"(42.2668061, 3.0170438)",,
-https://www.eltiempo.es/benza.html,ESXX13073,Benza,A Coruña,"(43.0245751, -8.586038751743482)",,
-https://www.eltiempo.es/el-pujol.html,ESXX8803,El Pujol,Girona,"(42.1259565, 2.6461369)",,
-https://www.eltiempo.es/urkulaparte.html,ESXX8927,Urkulaparte,Guipúzcoa,"(43.0557532, -2.0628115)",,
-https://www.eltiempo.es/lloses.html,ESO1250,Lloses,Asturias,"(43.4406084, -5.4936587)",,
-https://www.eltiempo.es/tabernas.html,ESXX0505,Tabernas,Almería,"(37.0498879, -2.3913774)",,
-https://www.eltiempo.es/els-garidells.html,ESXX7256,Els Garidells,Tarragona,"(41.2071322, 1.2471593)",,
-https://www.eltiempo.es/bescos-de-garcipollera.html,ESXX19839,Bescós de Garcipollera,Huesca,"(42.6273654, -0.5035778)",,
-https://www.eltiempo.es/ubide.html,ESXX5390,Ubide,Vizcaya,"(43.0241516, -2.6888828)",,
-https://www.eltiempo.es/en-provincia-girona/la-garriga.html,ESXX12807,La Garriga,Girona,"(42.2748113, 3.1533243)",,
-https://www.eltiempo.es/santa-margalida.html,ESPM0047,Santa Margalida,Baleares,"(39.7222586, 3.1536139)",,
-https://www.eltiempo.es/alfondeguilla.html,ESV0409,Alfondeguilla,Castellón,"(39.8376893, -0.2690126)",,
-https://www.eltiempo.es/albelda.html,ESXX4632,Albelda,Huesca,"(41.864975, 0.4605062)",,
-https://www.eltiempo.es/babel.html,ESV1322,Babel,Alicante,"(38.33646185, -0.5160773097968302)",,
-https://www.eltiempo.es/claravalls.html,ESXX13242,Claravalls,Lleida,"(41.702286, 1.1267836)",,
-https://www.eltiempo.es/el-alambique.html,ESXX15855,El Alambique,Granada,"(37.3914857, -2.9594804)",,
-https://www.eltiempo.es/la-romana.html,ESV0186,La Romana,Alicante,"(38.3678386, -0.8961147)",,
-https://www.eltiempo.es/beniarda.html,ESV0559,Beniardá,Alicante,"(38.6835501, -0.2163624)",,
-https://www.eltiempo.es/la-candana-de-curueno.html,ESXX18808,La Cándana de Curueño,León,"(42.8269864, -5.4105157)",,
-https://www.eltiempo.es/tenerife/la-hoya.html,ESXX15288,La Hoya,Tenerife,"(28.3147509, -16.4185512)",,
-https://www.eltiempo.es/cabrillas.html,ESXX1626,Cabrillas,Salamanca,"(40.7397092, -6.1779843)",,
-https://www.eltiempo.es/los-charcos.html,ESXX14986,Los Charcos,Albacete,"(38.6511298, -1.7236631)",,
-https://www.eltiempo.es/medranda.html,ESXX4952,Medranda,Guadalajara,"(40.9828433, -2.9375868)",,
-https://www.eltiempo.es/valdemolinos.html,ESXX16825,Valdemolinos,Ávila,"(40.5152852, -5.4166333)",,
-https://www.eltiempo.es/la-palma.html,ESMU0058,La Palma,Murcia,"(37.6892586, -0.9626652)",,
-https://www.eltiempo.es/jorel.html,ESMU0591,Jorel,Murcia,"(37.5370662, -1.1174277)",,
-https://www.eltiempo.es/a-coruna/monton.html,ESXX21150,Montón,A Coruña,"(43.4829918, -8.1978211)",,
-https://www.eltiempo.es/mugardos.html,ESXX2618,Mugardos,A Coruña,"(43.4618239, -8.2571246)",,
-https://www.eltiempo.es/villarta-de-san-juan.html,ESXX3539,Villarta de San Juan,Ciudad Real,"(39.2383954, -3.4235166)",,
-https://www.eltiempo.es/cuevas-de-yeseras.html,ESXX12629,Cuevas de Yeseras,Granada,"(37.7518265, -2.484824)",,
+https://www.eltiempo.es/mallecina.html,ESO1194,Mallecina,Asturias,"(43.4486049, -6.2560516)",23.0,2023-08-21 13:05
+https://www.eltiempo.es/arcocha.html,ESXX9534,Arcocha,Vizcaya,"(43.2616921, -2.9262609)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/torrejon.html,ESXX16949,Torrejón,Teruel,"(41.1279977, -0.1457861)",33.0,2023-08-21 13:05
+https://www.eltiempo.es/pousacarro.html,ESXX11553,Pousacarro,A Coruña,"(42.6799704, -8.9830592)",24.0,2023-08-21 13:05
+https://www.eltiempo.es/lomo-pelado.html,ESXX12715,Lomo Pelado,Tenerife,"(28.4395342, -16.3684563)",26.0,2023-08-21 12:05
+https://www.eltiempo.es/fonteferreira.html,ESXX10487,Fonteferreira,Lugo,"(42.7217627, -7.0669567)",24.0,2023-08-21 13:05
+https://www.eltiempo.es/casillas-de-flores.html,ESXX1741,Casillas de Flores,Salamanca,"(40.3691075, -6.746380176006475)",31.0,2023-08-21 13:05
+https://www.eltiempo.es/ceclavin.html,ESXX0302,Ceclavín,Cáceres,"(39.8224249, -6.7734102)",33.0,2023-08-21 13:05
+https://www.eltiempo.es/lascellas.html,ESXX4751,Lascellas,Huesca,"(42.0777376, -0.0822942)",35.0,2023-08-21 13:05
+https://www.eltiempo.es/pombal.html,ESXX11540,Pombal,A Coruña,"(43.49277, -7.8095685)",23.0,2023-08-21 13:05
+https://www.eltiempo.es/cretas.html,ESXX20649,Cretas,Teruel,"(40.9288515, 0.2127041)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/valles-de-valdavia.html,ESXX5455,Valles de Valdavia,Palencia,"(42.5818003, -4.6382561)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/zorio.html,ESXX14302,Zorio,Albacete,"(38.6956142, -2.4000351)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/almedijar.html,ESV0456,Almedíjar,Castellón,"(39.8723007, -0.4093054)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/la-arnilla.html,ESXX15391,La Arnilla,Almería,"(37.2842402, -1.8602722)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/pinuecar.html,ESM0176,Piñuécar,Madrid,"(41.0330624, -3.5993674)",33.0,2023-08-21 13:05
+https://www.eltiempo.es/seoane-vello.html,ESXX12005,Seoane Vello,Ourense,"(42.3247469, -7.5114483)",23.0,2023-08-21 13:05
+https://www.eltiempo.es/tramacastilla-de-tena.html,ESXX16929,Tramacastilla de Tena,Huesca,"(42.7138667, -0.3162481)",29.0,2023-08-21 13:05
+https://www.eltiempo.es/la-victoria.html,ESXX2348,La Victoria,Córdoba,"(37.6813142, -4.8531883)",35.0,2023-08-21 13:05
+https://www.eltiempo.es/fresnellino-del-monte.html,ESXX19112,Fresnellino del Monte,León,"(42.4430077, -5.6208511)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/tremaya.html,ESXX16921,Tremaya,Palencia,"(42.9802775, -4.4613956)",25.0,2023-08-21 13:05
+https://www.eltiempo.es/els-cellers.html,ESXX8815,Els Cellers,Girona,"(42.3450211, 2.7984576)",39.0,2023-08-21 13:05
+https://www.eltiempo.es/zaratan.html,ESXX3601,Zaratán,Valladolid,"(41.6594549, -4.7833204)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/en-provincia-albacete/villegas.html,ESXX14322,Villegas,Albacete,"(38.6050314, -1.5583875)",30.0,2023-08-21 13:05
+https://www.eltiempo.es/goas.html,ESXX13416,Goás,Lugo,"(43.3031565, -7.6767366)",21.0,2023-08-21 13:05
+https://www.eltiempo.es/el-guijar.html,ESXX8354,El Guijar,Segovia,"(41.2287796, -3.861358)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/la-mata-de-monteagudo.html,ESXX18730,La Mata de Monteagudo,León,"(42.8391221, -5.0475721)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/la-pava.html,ESMU0378,La Pava,Murcia,"(38.1703468, -1.9935485)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/arbonies.html,ESNA0162,Arboniés,Navarra,"(42.6795983, -1.2529857)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/chilches.html,ESV0151,Chilches,Castellón,"(39.782385, -0.1878358)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/agoncillo.html,ESLO0080,Agoncillo,La Rioja,"(42.4451704, -2.2913654)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/ubierna.html,ESXX14096,Ubierna,Burgos,"(42.4925375, -3.6989892)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/brazuelo.html,ESXX5838,Brazuelo,León,"(42.4971632, -6.1571714)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/salmeroncillos-de-abajo.html,ESXX2992,Salmeroncillos de Abajo,Cuenca,"(40.5046779, -2.5215533)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/la-concepcion.html,ESXX12687,La Concepción,Badajoz,"(38.6226927, -5.904622)",36.0,2023-08-21 13:05
+https://www.eltiempo.es/san-antonio-de-benageber.html,ESV1240,San Antonio de Benagéber,Valencia,"(39.5619478, -0.5001275)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/plegamans.html,ESXX11531,Plegamans,Barcelona,"(41.5873942, 2.1806823)",36.0,2023-08-21 13:05
+https://www.eltiempo.es/huesca.html,ESXX0191,Huesca,Huesca,"(42.1382539, -0.4080901)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/huarte-araquil.html,ESNA0082,Huarte-Araquil,Navarra,"(42.9199485, -1.9687562)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/ulldecona.html,ESXX0924,Ulldecona,Tarragona,"(40.5967567, 0.4475376)",36.0,2023-08-21 13:05
+https://www.eltiempo.es/castellar-de-la-selva.html,ESXX13187,Castellar de la Selva,Girona,"(41.9483784, 2.8695447)",38.0,2023-08-21 13:05
+https://www.eltiempo.es/caroceiro.html,ESO1796,Caroceiro,Asturias,"(43.4561763, -6.8711142)",22.0,2023-08-21 13:05
+https://www.eltiempo.es/marazoleja.html,ESXX6006,Marazoleja,Segovia,"(40.9608891, -4.3383896)",31.0,2023-08-21 13:05
+https://www.eltiempo.es/arantzazu.html,ESXX7723,Arantzazu,Vizcaya,"(43.156731, -2.7905895)",26.0,2023-08-21 13:05
+https://www.eltiempo.es/gargantiel.html,ESXX4344,Gargantiel,Ciudad Real,"(38.8084702, -4.7060191)",35.0,2023-08-21 13:05
+https://www.eltiempo.es/guijo.html,ESXX4354,Guijo,Córdoba,"(38.495977, -4.7831015)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/zildotz.html,ESNA0381,Zildotz,Navarra,"(42.8776613, -1.6708167759364358)",29.0,2023-08-21 13:05
+https://www.eltiempo.es/villalengua.html,ESXX3462,Villalengua,Zaragoza,"(41.4354738, -1.8406491)",31.0,2023-08-21 13:05
+https://www.eltiempo.es/loma-de-ucieza.html,ESXX20762,Loma de Ucieza,Palencia,"(42.4771428, -4.578716473021888)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/fuentes.html,ESXX4991,Fuentes,Cuenca,"(39.9503682, -2.0210007)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/agustin.html,ESXX12910,Agustín,Lugo,"(42.9567788, -7.3149639)",23.0,2023-08-21 13:05
+https://www.eltiempo.es/taurito.html,ESXX12829,Taurito,Las Palmas,"(27.8163849, -15.7517111)",30.0,2023-08-21 12:05
+https://www.eltiempo.es/pedralba.html,ESV0211,Pedralba,Valencia,"(39.6053522, -0.7260062)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/matilla-de-arzon.html,ESXX6038,Matilla de Arzón,Zamora,"(42.1060915, -5.6415868)",27.0,2023-08-21 13:05
+https://www.eltiempo.es/en-provincia-salamanca/cuellar.html,ESXX19358,Cuéllar,Salamanca,"(40.6386961, -6.6591439)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/mariana.html,ESXX2487,Mariana,Cuenca,"(40.1664999, -2.1450678)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/en-provincia-leon/tejedo.html,ESXX17015,Tejedo,León,"(42.8595405, -6.3549942)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/sant-miquel-de-pera.html,ESXX11887,Sant Miquel de Pera,Girona,"(42.2839166, 2.4950352)",36.0,2023-08-21 13:05
+https://www.eltiempo.es/lidon.html,ESXX4386,Lidón,Teruel,"(40.7175307, -1.1124556)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/cenera-de-zalima.html,ESXX19512,Cenera de Zalima,Palencia,"(42.8153695, -4.3208147)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/estellencs.html,ESPM0206,Estellencs,Baleares,"(39.6535102, 2.4810336)",31.0,2023-08-21 13:05
+https://www.eltiempo.es/torazo.html,ESO0571,Torazo,Asturias,"(43.394828, -5.4005827)",24.0,2023-08-21 13:05
+https://www.eltiempo.es/quintanatello-de-ojeda.html,ESXX17742,Quintanatello de Ojeda,Palencia,"(42.7341647, -4.4574756)",25.0,2023-08-21 13:05
+https://www.eltiempo.es/los-gabatos.html,ESMU0304,Los Gabatos,Murcia,"(37.6398988, -1.0079858)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/bolmente.html,ESXX13100,Bolmente,Lugo,"(42.4227736, -7.5898946)",22.0,2023-08-21 13:05
+https://www.eltiempo.es/rionegro-del-puente.html,ESXX0578,Rionegro del Puente,Zamora,"(42.0055905, -6.2281127)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/canales-de-la-sierra.html,ESLO0118,Canales de la Sierra,La Rioja,"(42.1426201, -3.0251241)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/teilan.html,ESXX12131,Teilán,Lugo,"(42.6489551, -7.5129593)",24.0,2023-08-21 13:05
+https://www.eltiempo.es/la-rambla-grande.html,ESXX15222,La Rambla Grande,Almería,"(36.8400831, -2.4606892560028277)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/calvera.html,ESXX19716,Calvera,Huesca,"(42.3879835, 0.6130516)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/campol.html,ESXX19683,Campol,Huesca,"(42.4985454, -0.0085749)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/torre-endomenech.html,ESV0373,Torre Endoménech,Castellón,"(40.2633725, 0.0701668)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/abrente.html,ESXX9372,Abrente,Lugo,"(42.9897454, -6.9733963)",25.0,2023-08-21 13:05
+https://www.eltiempo.es/en-provincia-cuenca/don-benito.html,ESXX15864,Don Benito,Cuenca,"(40.1151163, -2.410344)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/ronfe.html,ESXX13902,Ronfe,Lugo,"(42.8438253, -7.4221674)",24.0,2023-08-21 13:05
+https://www.eltiempo.es/munoveros.html,ESXX6286,Muñoveros,Segovia,"(41.1725058, -3.9522939)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/granatula-de-calatrava.html,ESXX2141,Granátula de Calatrava,Ciudad Real,"(38.7958912, -3.7429733)",35.0,2023-08-21 13:05
+https://www.eltiempo.es/corsavell.html,ESXX8861,Corsavell,Girona,"(42.3126976, 2.6647278462113126)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/legarda.html,ESNA0313,Legarda,Navarra,"(42.7113388, -1.7727104)",29.0,2023-08-21 13:05
+https://www.eltiempo.es/cordovin.html,ESLO0031,Cordovín,La Rioja,"(42.3848664, -2.8153541)",25.0,2023-08-21 13:05
+https://www.eltiempo.es/villasrubias.html,ESXX3551,Villasrubias,Salamanca,"(40.3389758, -6.6383329)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/roquetes.html,ESXX6737,Roquetes,Tarragona,"(40.8203657, 0.50343)",38.0,2023-08-21 13:05
+https://www.eltiempo.es/vall-de-gallinera.html,ESV0502,Vall de Gallinera,Alicante,"(38.825055899999995, -0.24215474935521797)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/torres-de-abajo.html,ESXX16940,Torres de Abajo,Burgos,"(42.9590667, -3.7916398)",26.0,2023-08-21 13:05
+https://www.eltiempo.es/benillup.html,ESV0516,Benillup,Alicante,"(38.7535607, -0.3788159)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-murcia/el-puntal.html,ESMU0451,El Puntal,Murcia,"(38.0173547, -1.1473759)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/bardazoso.html,ESXX3940,Bardazoso,Jaén,"(38.0998825, -2.9262342)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/navarra/lakuntza.html,ESNA0686,Lakuntza,Navarra,"(42.9222192, -2.0227655)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/arcaute.html,ESXX12970,Arcaute,Álava,"(42.8514556, -2.6351692)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/bedua.html,ESXX8888,Bedua,Guipúzcoa,"(43.27917055, -2.254872485020865)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/canada-del-gamo.html,ESXX16124,Cañada del Gamo,Córdoba,"(38.2048761, -5.404825)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/miruena.html,ESXX11179,Mirueña,Ávila,"(40.7370387, -5.0911915)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/villalman.html,ESXX16605,Villalmán,León,"(42.4098756, -4.9865543)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/arrabal-de-portillo.html,ESXX8248,Arrabal de Portillo,Valladolid,"(41.4744315, -4.5924457)",30.0,2023-08-21 13:05
+https://www.eltiempo.es/valdelaguna.html,ESM0136,Valdelaguna,Madrid,"(40.1605777, -3.367827)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/fontaciera.html,ESO1529,Fontaciera,Asturias,"(43.4792305, -5.7159126)",24.0,2023-08-21 13:05
+https://www.eltiempo.es/alcocebre.html,ESV1307,Alcocebre,Castellón,"(40.2447466, 0.2755863)",31.0,2023-08-21 13:05
+https://www.eltiempo.es/tordehumos.html,ESXX3236,Tordehumos,Valladolid,"(41.814441, -5.1576521)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/el-temple.html,ESXX4306,El Temple,Huesca,"(41.9749931, -0.7511956)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/bean.html,ESXX9707,Beán,A Coruña,"(43.01493065, -8.376238666502973)",24.0,2023-08-21 13:05
+https://www.eltiempo.es/en-provincia-zaragoza/la-estacion.html,ESXX18784,La Estación,Zaragoza,"(41.229572, 0.1389493)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/el-hito.html,ESXX1946,El Hito,Cuenca,"(39.8589283, -2.7150172)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/lardeiros.html,ESXX10856,Lardeiros,A Coruña,"(42.9883424, -8.2982947)",25.0,2023-08-21 13:15
+https://www.eltiempo.es/nocedo.html,ESO1055,Nocedo,Asturias,"(43.0432376, -6.7595659)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-burgos/bayas.html,ESXX19871,Bayas,Burgos,"(42.7022947, -2.9292127)",27.0,2023-08-21 13:05
+https://www.eltiempo.es/crendes.html,ESXX10219,Crendes,A Coruña,"(43.26330915, -8.273537963614903)",27.0,2023-08-21 13:15
+https://www.eltiempo.es/majuelos.html,ESXX18427,Majuelos,Salamanca,"(40.6532306, -6.6102971)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/vizcaya/santa-maria.html,ESXX11926,Santa María,Vizcaya,"(43.2573441, -2.8716438)",25.0,2023-08-21 13:05
+https://www.eltiempo.es/navardun.html,ESXX2639,Navardún,Zaragoza,"(42.5128138, -1.1459925)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/sabugo.html,ESO0781,Sabugo,Asturias,"(43.5597119, -5.9233557)",22.0,2023-08-21 13:15
+https://www.eltiempo.es/grandoso.html,ESXX19009,Grandoso,León,"(42.8504275, -5.2755011)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/pitres.html,ESXX2817,Pitres,Granada,"(36.9357242, -3.3259562)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/dehesa-de-cordovilla.html,ESXX19333,Dehesa de Cordovilla,Palencia,"(42.0689884, -4.2580791)",29.0,2023-08-21 13:05
+https://www.eltiempo.es/huerta-del-rey.html,ESXX2215,Huerta del Rey,Burgos,"(41.80656535, -3.3631280593834223)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/freixido.html,ESXX10511,Freixido,Lugo,"(42.8999222, -7.3607006)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/chillaron-del-rey.html,ESXX4865,Chillarón del Rey,Guadalajara,"(40.5970133, -2.6898503)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/valmadrid.html,ESXX3375,Valmadrid,Zaragoza,"(41.4434021, -0.8844837)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/santa-barbara-de-casa.html,ESXX3062,Santa Bárbara de Casa,Huelva,"(37.7956688, -7.1885793)",37.0,2023-08-21 13:05
+https://www.eltiempo.es/pedraza-de-yeltes.html,ESXX17969,Pedraza de Yeltes,Salamanca,"(40.7243977, -6.3404106)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/zuaztoi.html,ESNA0488,Zuaztoi,Navarra,"(43.1889654, -1.497119)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/mas-de-anton.html,ESXX18386,Mas de Antón,Teruel,"(40.1587179, -0.612272)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/mondron.html,ESXX20261,Mondrón,Málaga,"(36.9396056, -4.2280118)",29.0,2023-08-21 13:05
+https://www.eltiempo.es/piera.html,ESXX2802,Piera,Barcelona,"(41.5216923, 1.7526335)",35.0,2023-08-21 13:05
+https://www.eltiempo.es/abenojar.html,ESXX0451,Abenójar,Ciudad Real,"(38.8794942, -4.3557024)",35.0,2023-08-21 13:05
+https://www.eltiempo.es/en-provincia-burgos/san-cristobal-del-monte.html,ESXX17439,San Cristóbal del Monte,Burgos,"(42.3988705, -3.1450463)",25.0,2023-08-21 13:15
+https://www.eltiempo.es/aguas-candidas.html,ESXX7951,Aguas Cándidas,Burgos,"(42.7164495, -3.5030822)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/los-castellanos.html,ESXX14993,Los Castellanos,Granada,"(37.239242, -4.0959448)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/las-rubias.html,ESO1323,Las Rubias,Asturias,"(43.4271235, -6.3499469)",22.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-leon/genestosa.html,ESXX19034,Genestosa,León,"(43.006321, -6.0099107)",27.0,2023-08-21 13:05
+https://www.eltiempo.es/kripan.html,ESXX1870,Kripan,Álava,"(42.5919931, -2.5153878)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/gava.html,ESXX1285,Gavà,Barcelona,"(41.3050933, 2.0063126)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/en-provincia-jaen/capilla.html,ESXX16104,Capilla,Jaén,"(37.767630499999996, -3.7994257932967583)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/vilaflor.html,ESXX0937,Vilaflor,Tenerife,"(28.158776000000003, -16.64728118557438)",24.0,2023-08-21 12:05
+https://www.eltiempo.es/tamariu.html,ESXX6672,Tamariu,Girona,"(41.9203698, 3.2068515)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/pradosegar.html,ESXX8185,Pradosegar,Ávila,"(40.5491266, -5.0697404)",31.0,2023-08-21 13:05
+https://www.eltiempo.es/los-merinales.html,ESXX14928,Los Merinales,Sevilla,"(37.3104395, -5.9633067)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/las-salas.html,ESXX18609,Las Salas,León,"(42.9355981, -5.104368961943452)",29.0,2023-08-21 13:05
+https://www.eltiempo.es/presencio.html,ESXX7958,Presencio,Burgos,"(42.1859701, -3.9013025)",30.0,2023-08-21 13:05
+https://www.eltiempo.es/salardu.html,ESXX2981,Salardú,Lleida,"(42.7082581, 0.9049914)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/artosa.html,ESO2051,Artosa,Asturias,"(43.2947022, -5.662075)",22.0,2023-08-21 13:15
+https://www.eltiempo.es/muga-de-alba.html,ESXX18210,Muga de Alba,Zamora,"(41.6733226, -6.0398748)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/gerbe.html,ESXX8545,Gerbe,Huesca,"(42.38347, 0.1836904)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/sesa.html,ESXX3137,Sesa,Huesca,"(41.9962961, -0.2442967)",35.0,2023-08-21 13:15
+https://www.eltiempo.es/bargas.html,ESXX1504,Bargas,Toledo,"(39.9393212, -4.0201526)",33.0,2023-08-21 13:05
+https://www.eltiempo.es/mentrida.html,ESXX2529,Méntrida,Toledo,"(40.2379032, -4.1945535)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/albuixech.html,ESV0567,Albuixech,Valencia,"(39.5442852, -0.3247783)",33.0,2023-08-21 13:05
+https://www.eltiempo.es/nodalo.html,ESXX18151,Nódalo,Soria,"(41.6886019, -2.7637798)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/berducedo.html,ESO0032,Berducedo,Asturias,"(43.2331048, -6.7672319)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/novo-sancti-petri.html,ESXX21103,Novo Sancti Petri,Cádiz,"(36.3529279, -6.1612362)",35.0,2023-08-21 13:05
+https://www.eltiempo.es/belbimbre.html,ESXX5529,Belbimbre,Burgos,"(42.168718, -4.0127101)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/la-corcolina.html,ESO1413,La Corcolina,Asturias,"(43.2836656, -6.5739869)",22.0,2023-08-21 13:15
+https://www.eltiempo.es/moldones.html,ESXX18289,Moldones,Zamora,"(41.8417444, -6.484816)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/valdespino-ceron.html,ESXX4490,Valdespino Cerón,León,"(42.2597708, -5.3595082)",27.0,2023-08-21 13:05
+https://www.eltiempo.es/almuniente.html,ESXX4626,Almuniente,Huesca,"(41.9508488, -0.412962)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/parets-de-dalt.html,ESXX11446,Parets de Dalt,Girona,"(42.169314, 2.8802161)",37.0,2023-08-21 13:15
+https://www.eltiempo.es/riego-de-la-vega.html,ESXX2930,Riego de la Vega,León,"(42.388342, -5.9826151)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/lomo-alto.html,ESXX15047,Lomo Alto,Tenerife,"(28.3217231, -16.6212108)",30.0,2023-08-21 12:15
+https://www.eltiempo.es/selviella.html,ESO0681,Selviella,Asturias,"(43.3214022, -6.2202982)",22.0,2023-08-21 13:15
+https://www.eltiempo.es/santa-luzia.html,ESXX8972,Santa Luzia,Guipúzcoa,"(43.145359, -2.0708735)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/mozondiga.html,ESXX18214,Mozóndiga,León,"(42.4688783, -5.7091282)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/bajamar.html,ESXX1488,Bajamar,Tenerife,"(28.5538241, -16.3457221)",32.0,2023-08-21 12:05
+https://www.eltiempo.es/monistrol-de-noya.html,ESXX11195,Monistrol de Noya,Barcelona,"(41.4550063, 1.784489)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/argujillo.html,ESXX1050,Argujillo,Zamora,"(41.3129372, -5.5864446)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/villamanan.html,ESXX3469,Villamañán,León,"(42.3221133, -5.5833776)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/estiche-de-cinca.html,ESXX4623,Estiche de Cinca,Huesca,"(41.8178531, 0.1234675)",35.0,2023-08-21 13:15
+https://www.eltiempo.es/pradocabalos.html,ESXX13839,Pradocabalos,Ourense,"(42.1195836, -7.132175)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/mediana-de-aragon.html,ESXX7305,Mediana de Aragón,Zaragoza,"(41.4666749, -0.7074317)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/santibanez-del-rio.html,ESXX17238,Santibáñez del Río,Salamanca,"(40.9769678, -5.7209546)",30.0,2023-08-21 13:05
+https://www.eltiempo.es/las-cefinas.html,ESXX12701,Las Cefiñas,Huelva,"(37.9669496, -6.8575696)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/pozuelo.html,ESXX2846,Pozuelo,Albacete,"(38.8093497, -2.101456)",32.0,2023-08-21 13:05
+https://www.eltiempo.es/angoares.html,ESXX3644,Angoares,Pontevedra,"(42.164235, -8.5051807)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/sant-iscle-de-colltort.html,ESXX11811,Sant Iscle de Colltort,Girona,"(42.11938395, 2.5285996380379103)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/la-pobla-de-mafumet.html,ESXX7099,La Pobla de Mafumet,Tarragona,"(41.1865974, 1.2082805)",37.0,2023-08-21 13:05
+https://www.eltiempo.es/urkia.html,ESXX8928,Urkia,Guipúzcoa,"(43.0871699, -2.1814154)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/salitja.html,ESXX13912,Salitja,Girona,"(41.9090284, 2.7475634)",38.0,2023-08-21 13:15
+https://www.eltiempo.es/zuneda.html,ESXX5641,Zuñeda,Burgos,"(42.6048358, -3.2264746)",27.0,2023-08-21 13:15
+https://www.eltiempo.es/valporquero-de-rueda.html,ESXX5898,Valporquero de Rueda,León,"(42.7509772, -5.2372873)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/abrera.html,ESXX7179,Abrera,Barcelona,"(41.5204464, 1.9024126)",36.0,2023-08-21 13:05
+https://www.eltiempo.es/rubielos-bajos.html,ESXX14579,Rubielos Bajos,Cuenca,"(39.446119, -2.0384284)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/castellanos-de-castro.html,ESXX1748,Castellanos de Castro,Burgos,"(42.3289446, -4.033354)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/rus.html,ESXX2970,Rus,Jaén,"(38.0476731, -3.461804)",34.0,2023-08-21 13:05
+https://www.eltiempo.es/latadal.html,ESXX10905,Latadal,Lugo,"(42.9546441, -7.2485899)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/garzain.html,ESNA0401,Garzáin,Navarra,"(43.1298357, -1.5366744)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/jagua.html,ESXX15428,Jagua,Tenerife,"(28.5336885, -16.1485389)",30.0,2023-08-21 12:15
+https://www.eltiempo.es/pobar.html,ESXX5689,Pobar,Soria,"(41.890276, -2.2342701)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/santovenia-de-la-valdoncina.html,ESXX5931,Santovenia de la Valdoncina,León,"(42.5432895, -5.6238125)",28.0,2023-08-21 13:05
+https://www.eltiempo.es/mamblas.html,ESXX6292,Mamblas,Ávila,"(41.020283, -5.0110468)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/moraton.html,ESXX14777,Moratón,Almería,"(37.1912541, -2.31042)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/pena-cuerna.html,ESXX17945,Peña Cuerna,Salamanca,"(40.7638872, -6.3408863)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/daner.html,ESO1652,Daner,Asturias,"(43.4400444, -6.2481882)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/san-martin-de-los-herreros.html,ESXX17376,San Martín de los Herreros,Palencia,"(42.8915621, -4.5937696)",25.0,2023-08-21 13:15
+https://www.eltiempo.es/velilla-de-san-antonio.html,ESM0151,Velilla de San Antonio,Madrid,"(40.367166, -3.4874435)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/palomeque.html,ESXX7582,Palomeque,Toledo,"(40.1199294, -3.9635482)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/san-miguel-de-arganza.html,ESXX13941,San Miguel de Arganza,León,"(42.6497807, -6.686925)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/san-mamed.html,ESO0753,San Mamed,Asturias,"(43.2850075, -7.0054041)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/boadilla-del-monte.html,ESM0023,Boadilla del Monte,Madrid,"(40.4053485, -3.8764663)",33.0,2023-08-21 13:05
+https://www.eltiempo.es/los-barreros.html,ESMU0321,Los Barreros,Murcia,"(37.628983, -0.9990152)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/san-tirso.html,ESXX11949,San Tirso,A Coruña,"(42.8329348, -8.8632915)",22.0,2023-08-21 13:15
+https://www.eltiempo.es/bergua.html,ESXX19850,Bergua,Huesca,"(42.5342699, -0.1700995)",31.0,2023-08-21 13:05
+https://www.eltiempo.es/zarzales.html,ESXX14304,Zarzales,Almería,"(37.1800436, -2.3265752)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/cardama.html,ESXX13165,Cardama,A Coruña,"(42.96818155, -8.361146332808788)",25.0,2023-08-21 13:15
+https://www.eltiempo.es/penalba-de-castro.html,ESXX7966,Peñalba de Castro,Burgos,"(41.7887577, -3.3664027)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/galera.html,ESXX2106,Galera,Granada,"(37.7426081, -2.5507542)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/arman.html,ESXX12990,Armán,A Coruña,"(43.0176878, -8.9026488)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/mas-de-la-cabrera.html,ESXX11105,Mas de la Cabrera,Teruel,"(40.1545133, -1.2432845)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/el-pozuelo.html,ESXX4820,El Pozuelo,Cuenca,"(40.6201881, -2.2772876)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/valtravieso.html,ESXX16759,Valtravieso,Cáceres,"(39.4942097, -5.8637935)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/campanero.html,ESXX19699,Campanero,Salamanca,"(40.7002844, -6.5457143)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/portillo-de-toledo.html,ESXX0865,Portillo de Toledo,Toledo,"(40.0626338, -4.2273404)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/gillon.html,ESO0211,Gillón,Asturias,"(43.0251186, -6.5512821)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/pino-de-bureba.html,ESXX17886,Pino de Bureba,Burgos,"(42.7056353, -3.4321593)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/betan.html,ESXX9777,Betán,Ourense,"(42.2511356, -7.7134628)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/tinguaton.html,ESXX14445,Tinguatón,Las Palmas,"(29.0373981, -13.6867887)",33.0,2023-08-21 12:15
+https://www.eltiempo.es/zubialde.html,ESXX14228,Zubialde,Vizcaya,"(43.1479702, -2.8496736)",27.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-leon/san-justo.html,ESXX17405,San Justo,León,"(42.1343272, -6.6253752)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/minao-goien-minano-mayor.html,ESXX8588,Miñano Mayor,Álava,"(42.9114931, -2.6582152383516036)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/mainar.html,ESXX1418,Mainar,Zaragoza,"(41.1925768, -1.3027612)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/guipuzcoa/zubieta.html,ESXX14229,Zubieta,Guipúzcoa,"(43.270908, -2.0335418)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/pomar-de-valdivia.html,ESXX5504,Pomar de Valdivia,Palencia,"(42.7745019, -4.1674162)",27.0,2023-08-21 13:15
+https://www.eltiempo.es/asturias/los-carriles.html,ESO1222,Los Carriles,Asturias,"(43.413978, -4.9296244)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/fuente-de-piedra.html,ESXX2069,Fuente de Piedra,Málaga,"(37.13528, -4.7298858)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/domeno.html,ESV1254,Domeño,Valencia,"(39.6600701, -0.6720763)",35.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-lugo/lobios.html,ESXX8679,Lobios,Lugo,"(42.407446, -7.5303773)",22.0,2023-08-21 13:15
+https://www.eltiempo.es/samir-de-los-canos.html,ESXX3002,Samir de los Caños,Zamora,"(41.6735174, -6.1637332)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/el-redal.html,ESLO0114,El Redal,La Rioja,"(42.3381358, -2.2009622)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/castellonroi-castillonroy.html,ESXX20864,Castillonroy,Huesca,"(41.8855983, 0.5143404)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/estremera.html,ESM0057,Estremera,Madrid,"(40.1847306, -3.1062403)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-leon/cerezal.html,ESXX19503,Cerezal,León,"(42.7085779, -6.1984251)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/vilada.html,ESXX3419,Vilada,Barcelona,"(42.1369132, 1.9315206)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/consuegra-de-murera.html,ESXX13258,Consuegra de Murera,Segovia,"(41.2585035, -3.7808497)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/el-garabato.html,ESXX15752,El Garabato,Córdoba,"(37.6819012, -4.9777852)",37.0,2023-08-21 13:15
+https://www.eltiempo.es/surp.html,ESXX12097,Surp,Lleida,"(42.4534888, 1.1263192)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/masia-de-la-carrasca.html,ESV0679,Masía de la Carrasca,Castellón,"(40.445535050000004, -0.22296339586070982)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/trescasas.html,ESXX8329,Trescasas,Segovia,"(40.9632936, -4.0357823)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/bimenes.html,ESO0148,Bimenes,Asturias,"(43.325206449999996, -5.56708326368729)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/navarra/arteta.html,ESNA0367,Arteta,Navarra,"(42.8612002, -1.8699075)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/pedro-munoz.html,ESXX1216,Pedro Muñoz,Ciudad Real,"(39.4060954, -2.9474164)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/calleja.html,ESXX9908,Calleja,Vizcaya,"(43.1752098, -3.3593764)",27.0,2023-08-21 13:15
+https://www.eltiempo.es/otinar.html,ESXX14734,Otiñar,Jaén,"(37.6805509, -3.757605)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/pedralbes.html,ESXX8737,Pedralbes,Barcelona,"(41.3901401, 2.112218)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/telena.html,ESO0591,Teleña,Asturias,"(43.33254, -5.0478842)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/almazora.html,ESV0454,Almazora,Castellón,"(39.9435743, -0.0634783)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/aladren.html,ESXX4762,Aladrén,Zaragoza,"(41.2492023, -1.1557811)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/miranda-de-duero.html,ESXX18301,Miranda de Duero,Soria,"(41.6507973, -2.4150273)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/horno-ciego.html,ESXX15467,Horno Ciego,Albacete,"(38.4299296, -2.2193544)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-avila/monte-alto.html,ESXX18267,Monte Alto,Ávila,"(41.1178112, -5.1070762)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/estacion-de-huetor-tajar.html,ESXX12662,Estación de Huétor-Tájar,Granada,"(37.2033551, -4.0610285)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/villarraso.html,ESXX8089,Villarraso,Soria,"(41.8920429, -2.2095992)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/horno-robledo.html,ESXX18921,Horno Robledo,Ávila,"(40.3825365, -4.7687531)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/lacort.html,ESXX18800,Lacort,Huesca,"(42.4223542, 0.3192418)",36.0,2023-08-21 13:15
+https://www.eltiempo.es/matas-altas.html,ESXX18365,Matas Altas,Salamanca,"(40.8074736, -5.9325072)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-leon/viloria.html,ESXX16388,Viloria,León,"(41.445392, -4.3827406)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/roderos.html,ESXX17549,Roderos,León,"(42.4958615, -5.4871197)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/hoya-de-santa-ana.html,ESXX15456,Hoya de Santa Ana,Albacete,"(38.6860229, -1.5695625)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/solera.html,ESXX5143,Solera,Jaén,"(37.6835537, -3.3692242)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/maia-de-montcal.html,ESXX6593,Maià de Montcal,Girona,"(42.2221769, 2.7431144)",37.0,2023-08-21 13:15
+https://www.eltiempo.es/tinajas.html,ESXX3219,Tinajas,Cuenca,"(40.3258732, -2.5812709)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/nograro.html,ESXX11300,Nograro,Álava,"(42.824524600000004, -3.1098728873701034)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/montuerto.html,ESXX18251,Montuerto,León,"(42.8854031, -5.3932776)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/alcazaren.html,ESXX6092,Alcazarén,Valladolid,"(41.3709297, -4.6715674)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/sorbas.html,ESXX0503,Sorbas,Almería,"(37.098183, -2.1239548)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/celada.html,ESO1753,Celada,Asturias,"(43.426245, -5.4594277)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/la-gavarra.html,ESXX10785,La Gavarra,Lleida,"(42.1337613, 1.1838551)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/lodas.html,ESXX10992,Lodás,Lugo,"(43.2682358, -7.2644738)",21.0,2023-08-21 13:15
+https://www.eltiempo.es/guingueta.html,ESXX10658,Guingueta,Lleida,"(42.5945266, 1.1313477)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/son-espanyol.html,ESPM0145,Son Espanyol,Baleares,"(39.6285841, 2.6424628595510007)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/altzai.html,ESXX9301,Altzai,Guipúzcoa,"(43.0509324, -2.0619509)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/higuera-de-las-duenas.html,ESXX6128,Higuera de las Dueñas,Ávila,"(40.2395323, -4.6032406)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/saludes-de-castroponce.html,ESXX17476,Saludes de Castroponce,León,"(42.1564063, -5.7441621)",27.0,2023-08-21 13:15
+https://www.eltiempo.es/navalvillar-de-ibor.html,ESXX2637,Navalvillar de Ibor,Cáceres,"(39.5849648, -5.4130536)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/vila-sacra.html,ESXX7097,Vila-sacra,Girona,"(42.2668061, 3.0170438)",38.0,2023-08-21 13:15
+https://www.eltiempo.es/benza.html,ESXX13073,Benza,A Coruña,"(43.0245751, -8.586038751743482)",23.0,2023-08-21 13:15
+https://www.eltiempo.es/el-pujol.html,ESXX8803,El Pujol,Girona,"(42.1259565, 2.6461369)",37.0,2023-08-21 13:15
+https://www.eltiempo.es/urkulaparte.html,ESXX8927,Urkulaparte,Guipúzcoa,"(43.0557532, -2.0628115)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/lloses.html,ESO1250,Lloses,Asturias,"(43.4406084, -5.4936587)",24.0,2023-08-21 13:15
+https://www.eltiempo.es/tabernas.html,ESXX0505,Tabernas,Almería,"(37.0498879, -2.3913774)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/els-garidells.html,ESXX7256,Els Garidells,Tarragona,"(41.2071322, 1.2471593)",37.0,2023-08-21 13:15
+https://www.eltiempo.es/bescos-de-garcipollera.html,ESXX19839,Bescós de Garcipollera,Huesca,"(42.6273654, -0.5035778)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/ubide.html,ESXX5390,Ubide,Vizcaya,"(43.0241516, -2.6888828)",25.0,2023-08-21 13:15
+https://www.eltiempo.es/en-provincia-girona/la-garriga.html,ESXX12807,La Garriga,Girona,"(42.2748113, 3.1533243)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/santa-margalida.html,ESPM0047,Santa Margalida,Baleares,"(39.7222586, 3.1536139)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/alfondeguilla.html,ESV0409,Alfondeguilla,Castellón,"(39.8376893, -0.2690126)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/albelda.html,ESXX4632,Albelda,Huesca,"(41.864975, 0.4605062)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/babel.html,ESV1322,Babel,Alicante,"(38.33646185, -0.5160773097968302)",28.0,2023-08-21 13:15
+https://www.eltiempo.es/claravalls.html,ESXX13242,Claravalls,Lleida,"(41.702286, 1.1267836)",35.0,2023-08-21 13:15
+https://www.eltiempo.es/el-alambique.html,ESXX15855,El Alambique,Granada,"(37.3914857, -2.9594804)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/la-romana.html,ESV0186,La Romana,Alicante,"(38.3678386, -0.8961147)",33.0,2023-08-21 13:15
+https://www.eltiempo.es/beniarda.html,ESV0559,Beniardá,Alicante,"(38.6835501, -0.2163624)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/la-candana-de-curueno.html,ESXX18808,La Cándana de Curueño,León,"(42.8269864, -5.4105157)",29.0,2023-08-21 13:15
+https://www.eltiempo.es/tenerife/la-hoya.html,ESXX15288,La Hoya,Tenerife,"(28.3147509, -16.4185512)",29.0,2023-08-21 12:15
+https://www.eltiempo.es/cabrillas.html,ESXX1626,Cabrillas,Salamanca,"(40.7397092, -6.1779843)",31.0,2023-08-21 13:15
+https://www.eltiempo.es/los-charcos.html,ESXX14986,Los Charcos,Albacete,"(38.6511298, -1.7236631)",30.0,2023-08-21 13:15
+https://www.eltiempo.es/medranda.html,ESXX4952,Medranda,Guadalajara,"(40.9828433, -2.9375868)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/valdemolinos.html,ESXX16825,Valdemolinos,Ávila,"(40.5152852, -5.4166333)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/la-palma.html,ESMU0058,La Palma,Murcia,"(37.6892586, -0.9626652)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/jorel.html,ESMU0591,Jorel,Murcia,"(37.5370662, -1.1174277)",32.0,2023-08-21 13:15
+https://www.eltiempo.es/a-coruna/monton.html,ESXX21150,Montón,A Coruña,"(43.4829918, -8.1978211)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/mugardos.html,ESXX2618,Mugardos,A Coruña,"(43.4618239, -8.2571246)",26.0,2023-08-21 13:15
+https://www.eltiempo.es/villarta-de-san-juan.html,ESXX3539,Villarta de San Juan,Ciudad Real,"(39.2383954, -3.4235166)",34.0,2023-08-21 13:15
+https://www.eltiempo.es/cuevas-de-yeseras.html,ESXX12629,Cuevas de Yeseras,Granada,"(37.7518265, -2.484824)",31.0,2023-08-21 13:15
 https://www.eltiempo.es/rajo.html,ESXX21154,Raxó,Pontevedra,"(42.4032443, -8.7552749)",,
 https://www.eltiempo.es/bellvis.html,ESXX6900,Bellvís,Lleida,"(41.6721394, 0.8176989)",,
 https://www.eltiempo.es/mansilla.html,ESXX18416,Mansilla,Segovia,"(41.222965, -3.616178)",,

@@ -16,9 +16,8 @@ MAX_THREADS = multiprocessing.cpu_count() // 2
 # Number of locations to scrape // Max towns in DB 22080
 NUM_LOCATIONS = 300  
 
-
 # CSV File to save data
-csv_filename = 'weather_data.csv'
+csv_filename = 'datos_tiempo.csv'
 
 
 def geocode_location(town_name, province_name):
@@ -73,13 +72,35 @@ def fetch_weather_data(pelmorex_id, meteo):
         pass
     
 def save_to_csv(data, filename):
-    header = ['Type', 'Name', 'Province', 'Temperature', 'Date', 'Time']
+    header = ['TIPO', 'CIUDAD', 'PROVINCIA', 'GRADOS', 'FECHA', 'HORA UTC', 'HORA MADRID (UTC+2)']
 
     now = datetime.datetime.now()
-    date = now.strftime('%Y-%m-%d')
-    time = now.strftime('%H:%M:%S')
+    date = now.strftime('%d/%m/%Y')
+    time_utc = now.strftime('%H:%M:%S')
+    time_madrid = (now + datetime.timedelta(hours=2)).strftime('%H:%M:%S')
 
-    data.update({'Date': date, 'Time': time})
+    formatted_data = {
+        'TIPO': data['Type'],
+        'CIUDAD': data['Name'],
+        'PROVINCIA': data['Province'],
+        'GRADOS': data['Temperature'],
+        'FECHA': date,
+        'HORA UTC': time_utc,
+        'HORA MADRID (UTC+2)': time_madrid
+    }
+
+    # Add the first row
+    if not os.path.exists(filename):
+        with open('meteorologia.csv','w+') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=header)
+            writer.writeheader()
+            # Append new rows
+            writer.writerow(formatted_data)
+    else:
+        # Append new rows
+        with open('meteorologia.csv','a') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=header)
+            writer.writerow(formatted_data)
 
     # Check if the CSV file already exists
     file_exists = os.path.exists(filename)
@@ -89,7 +110,8 @@ def save_to_csv(data, filename):
         writer = csv.DictWriter(file, fieldnames=header)
         if not file_exists:
             writer.writeheader()
-        writer.writerow(data)
+        writer.writerow(formatted_data)
+
 
 
 def main():
@@ -165,7 +187,10 @@ def main():
                           ).add_to(temp_map)
 
             temp_map.fit_bounds([c_coords, h_coords])
+
+            # Save the map
             temp_map.save(outfile="index.nginx-debian.html")
+            temp_map.save('map.html')
 
             now = datetime.datetime.now()
             print('Map generated successfully on', str(now.day)+'-'+str(now.month)+'-'+str(now.year), 'at', str(now.hour)+':'+str(now.minute))

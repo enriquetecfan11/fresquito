@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Define your script and CSV filenames
 SCRIPT_FILENAME = 'main.py'
 CSV_FILENAME = 'datos_tiempo.csv'
-MAP_FILENAME = 'index.nginx-debian.html'
+MAP_FILENAME = 'map.html'
 
 # Endpoint check API
 @app.route('/', methods=['GET'])
@@ -30,7 +30,7 @@ def get_all_data():
     try:
         data_list = []
         with open(CSV_FILENAME, 'r', encoding='iso-8859-1') as file:
-            csv_reader = csv.DictReader(file, delimiter=';')
+            csv_reader = csv.DictReader(file, delimiter=',')
             for row in csv_reader:
                 data_list.append(row)
         return jsonify(data_list), 200
