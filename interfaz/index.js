@@ -66,6 +66,13 @@ document.getElementById('get-data').addEventListener('click', () => {
     .catch(error => {
       console.error('Error al obtener datos:', error);
     });
+
+  // Timeout para desparecer la tabla
+  setTimeout(() => {
+    document.getElementById('data-container').innerHTML = '';
+  }
+    , 60000); // 60000 milisegundos = 1 minuto
+
 });
 
 
