@@ -11,7 +11,7 @@ CSV_FILENAME = 'datos_tiempo.csv'
 MAP_FILENAME = 'map.html'
 
 # Endpoint check API
-@app.route('/', methods=['GET'])
+@app.route('/check', methods=['GET'])
 def check_api():
     return jsonify({"message": "Welcome to the Weather API"}), 200
 
@@ -57,7 +57,7 @@ def get_map():
         return jsonify({"error": str(e)}), 500
 
 # Servir archivos estáticos desde la carpeta "interfaz"
-@app.route('/interfaz/<path:filename>', methods=['GET'])
+@app.route('/<path:filename>', methods=['GET'])
 def serve_static(filename):
     return send_from_directory('interfaz', filename)
 
