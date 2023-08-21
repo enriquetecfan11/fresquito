@@ -20,7 +20,7 @@ def check_api():
 def run_script():
     try:
         subprocess.run(['python', SCRIPT_FILENAME], check=True)
-        return jsonify({"message": "Script executed successfully."}), 200
+        return jsonify({"message": "Script ejecutado correctamente."}), 200
     except subprocess.CalledProcessError as e:
         return jsonify({"error": str(e)}), 500
 
