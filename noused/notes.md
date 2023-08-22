@@ -1,7 +1,7 @@
 # Ejecutar esto para correr el contedor
 
 Construir la imagen Docker
-docker build -t mi-fresquito .
+docker build -t fresquito .
 
 Ejecutar el contenedor
 docker run -d --name mi-contenedor mi-aplicacion
