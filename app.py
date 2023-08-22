@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from flask import Flask, request, jsonify, send_file, send_from_directory
 from flask_cors import CORS
 import csv
@@ -16,16 +18,18 @@ SCRIPT_FILENAME = 'main.py'
 CSV_FILENAME = 'datos_tiempo.csv'
 MAP_FILENAME = 'map.html'
 
-# Endpoint check API
-@app.route('/check', methods=['GET'])
-def check_api():
+# / simple endpoint to check it works
+@app.route('/', methods=['GET'])
+def index():
     return jsonify({"message": "Welcome to the Weather API"}), 200
+
 
 # Endpoint to run the script
 @app.route('/run_script', methods=['GET'])
 def run_script():
+    print("Ejecutando el script:", SCRIPT_FILENAME)
     try:
-        subprocess.run(['python', SCRIPT_FILENAME], check=True)
+        subprocess.run(['python3', SCRIPT_FILENAME], check=True)
         return jsonify({"message": "Script ejecutado correctamente."}), 200
     except subprocess.CalledProcessError as e:
         return jsonify({"error": str(e)}), 500

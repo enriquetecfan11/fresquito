@@ -13,3 +13,5 @@ docker run -d --name fresquito -p 80:80 fresquito
 Sin detach
 
 docker run -p 9090:9090--name fresquito fresquito
+
+docker run -p 5000:5000 nombre-de-tu-imagen

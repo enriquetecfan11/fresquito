@@ -16,9 +16,7 @@ required_packages = [
 # Instalando los paquetes uno por uno
 for package in required_packages:
     try:
-        subprocess.check_call(['pip', 'install', package])
-        print(f'Paquete {package} instalado correctamente.')
+        subprocess.check_call(['pip2', 'install', package])
+        print('Paquete {} instalado correctamente.'.format(package))
     except subprocess.CalledProcessError:
-        print(f'Error al instalar el paquete {package}.')
-
-print('Todos los paquetes necesarios han sido instalados.')
+        print('Error al instalar el paquete {}.'.format(package))

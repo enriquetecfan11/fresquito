@@ -1,25 +1,37 @@
-# Usar una imagen base de Python
-FROM python:3.9
+# Usar una imagen base ubuntu python
+FROM ubuntu:20.04
 
-# Directorio de trabajo en el contenedor
+# Instalar python
+RUN apt-get update
+RUN apt-get install -y python3-pip
+
+# Directorio de Trabajo
 WORKDIR /app
 
 # Copiamos los scripts para su ejecución
 COPY main.py /app/
-COPY install.py /app/
+COPY app.py /app/
 
+# Copiamos los archivos necesarios
+COPY output.csv /app/
+COPY town_index.csv /app/
+COPY weather_data.csv /app/
+COPY map.html /app/
 
-# Actualizar pip
-#RUN pip install --upgrade pip#
+# Copiamos la carpeta de interfaz
+COPY interfaz /app/interfaz
 
-# Ejecutar el script install.py para instalar las dependencias
-#RUN python install.py
+# Instalamos los paquetes necesarios 'pandas', 'requests', 'beautifulsoup4', 'geopy', 'folium', 'datetime', 'lxml', 'flask',flask-cors'
+RUN pip3 install pandas requests beautifulsoup4 geopy folium datetime lxml flask flask-cors
 
-# Instalar Nginx
-#RUN apt-get update && apt-get install -y nginx
+# Permisos para main.py
+RUN chmod +x /app/main.py
 
-# Configurar Nginx para servir archivos estáticos
-#COPY nginx-default /etc/nginx/sites-available/default
+# Permisos a App.py
+RUN chmod +x /app/app.py
 
-# CMD para iniciar Nginx y ejecutar el script main.py cada 1 hora
-#CMD service nginx start && while true; do python main.py; sleep 1h; done
+# Exponemos el puerto 5000
+EXPOSE 5000
+
+# Ejecutamos el script main.py
+CMD ["python3", "/app/app.py"]
