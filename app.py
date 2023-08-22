@@ -1,9 +1,15 @@
 from flask import Flask, request, jsonify, send_file, send_from_directory
+from flask_cors import CORS
 import csv
 import subprocess
 import os
 
 app = Flask(__name__)
+
+# Allow CORS
+CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
+
 
 # Define your script and CSV filenames
 SCRIPT_FILENAME = 'main.py'

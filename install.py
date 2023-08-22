@@ -9,6 +9,8 @@ required_packages = [
     'folium',
     'datetime',
     'lxml',
+    'flask',
+    'flask-cors'
 ]
 
 # Instalando los paquetes uno por uno
