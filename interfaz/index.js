@@ -21,6 +21,26 @@ document.getElementById('runScript').addEventListener('click', () => {
     });
 });
 
+document.getElementById('runScript').addEventListener('click', () => {
+  // Muestra una alerta indicando que el script está empezando
+  alert('El script está comenzando a ejecutarse. Esto puede tomar un momento.');
+
+  // Realiza la solicitud para ejecutar el script
+  fetch(`${BASE_URL}/run_newscript`)
+    .then(response => response.json())
+    .then(data => {
+      // Muestra una alerta indicando que el script ha terminado
+      alert('El script ha terminado de ejecutarse.');
+      document.getElementById('output').innerHTML = data.message;
+    })
+    .catch(error => {
+      // Muestra una alerta en caso de error
+      alert('Error: ' + error.message);
+      document.getElementById('output').innerHTML = 'Error: ' + error.message;
+    });
+});
+
+
 
 document.getElementById('get-data').addEventListener('click', () => {
   fetch(`${BASE_URL}/get_all_data`)  // Cambia la URL a la ruta correcta de tu API
