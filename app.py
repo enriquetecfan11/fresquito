@@ -36,7 +36,7 @@ def run_script():
         return jsonify({"error": str(e)}), 500
 
 @app.route('/run_newscript', methods=['GET'])
-def run_script():
+def run_newscript():
     print("Ejecutando el script:", NEWSCRIPT_FILENAME)
     try:
         subprocess.run(['python3', NEWSCRIPT_FILENAME], check=True)
