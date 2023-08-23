@@ -11,12 +11,15 @@ WORKDIR /app
 # Copiamos los scripts para su ejecución
 COPY main.py /app/
 COPY app.py /app/
+COPY newMain.py /app/
 
 # Copiamos los archivos necesarios
 COPY output.csv /app/
-COPY town_index.csv /app/
-COPY weather_data.csv /app/
 COPY map.html /app/
+COPY weather_data.csv /app/
+
+COPY town_index.csv /app/
+COPY new_town_index.csv /app/
 
 # Copiamos la carpeta de interfaz
 COPY interfaz /app/interfaz
@@ -34,4 +37,5 @@ RUN chmod +x /app/app.py
 EXPOSE 5000
 
 # Ejecutamos el script main.py
-CMD ["python3", "/app/app.py"]
+# CMD ["python3", "/app/app.py"]
+RUN python3 /app/app.py
