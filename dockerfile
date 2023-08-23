@@ -36,6 +36,8 @@ RUN chmod +x /app/app.py
 # Exponemos el puerto 5000
 EXPOSE 5000
 
+# Esto lo ejecuta directo
+# RUN python3 /app/app.py
+
 # Ejecutamos el script main.py
-# CMD ["python3", "/app/app.py"]
-RUN python3 /app/app.py
+CMD ["python3", "/app/app.py"]
