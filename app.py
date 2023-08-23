@@ -14,7 +14,7 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 
 
 # Define your script and CSV filenames
-SCRIPT_FILENAME = 'main.py'
+SCRIPT_FILENAME = 'newMain.py'
 CSV_FILENAME = 'datos_tiempo.csv'
 MAP_FILENAME = 'map.html'
 
