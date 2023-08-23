@@ -15,6 +15,7 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Define your script and CSV filenames
 SCRIPT_FILENAME = 'newMain.py'
+NEWSCRIPT_FILENAME = 'main.py'
 CSV_FILENAME = 'datos_tiempo.csv'
 MAP_FILENAME = 'map.html'
 
@@ -30,6 +31,15 @@ def run_script():
     print("Ejecutando el script:", SCRIPT_FILENAME)
     try:
         subprocess.run(['python3', SCRIPT_FILENAME], check=True)
+        return jsonify({"message": "Script ejecutado correctamente."}), 200
+    except subprocess.CalledProcessError as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/run_newscript', methods=['GET'])
+def run_script():
+    print("Ejecutando el script:", NEWSCRIPT_FILENAME)
+    try:
+        subprocess.run(['python3', NEWSCRIPT_FILENAME], check=True)
         return jsonify({"message": "Script ejecutado correctamente."}), 200
     except subprocess.CalledProcessError as e:
         return jsonify({"error": str(e)}), 500
