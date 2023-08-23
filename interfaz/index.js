@@ -21,7 +21,7 @@ document.getElementById('runScript').addEventListener('click', () => {
     });
 });
 
-document.getElementById('runScript').addEventListener('click', () => {
+document.getElementById('runNewScript').addEventListener('click', () => {
   // Muestra una alerta indicando que el script está empezando
   alert('El script está comenzando a ejecutarse. Esto puede tomar un momento.');
 
