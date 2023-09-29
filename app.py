@@ -57,16 +57,6 @@ def get_all_data():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Endpoint to get data for a specific number of locations
-@app.route('/get_data_by_count/<int:num_locations>', methods=['GET'])
-def get_data_by_count(num_locations):
-    try:
-        with open(CSV_FILENAME, 'r') as file:
-            lines = file.readlines()
-            data = lines[:num_locations + 1]  # Include header and the specified number of data lines
-        return jsonify({"data": data}), 200
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
 
 # Endpoint to get final static .html map 
 @app.route('/get_map', methods=['GET'])
