@@ -48,7 +48,7 @@ def scrape_weather_data(pelmorex_list):
     threads = []
     for pelmorex_id in pelmorex_list[:NUM_LOCATIONS]: 
         # Print the current name of location being scraped 
-        #print(f"Scraping data for location {pelmorex_id} ({pelmorex_list.index(pelmorex_id)+1} of {NUM_LOCATIONS})")
+        print(f"Scraping data for location {pelmorex_id} ({pelmorex_list.index(pelmorex_id)+1} of {NUM_LOCATIONS})")
 
         thread = threading.Thread(target=fetch_weather_data, args=(pelmorex_id, meteo))
         threads.append(thread)
