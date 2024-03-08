@@ -119,8 +119,6 @@ def save_to_csv(data, filename):
             writer.writeheader()
         writer.writerow(formatted_data)
 
-
-
 def main():
     global NUM_LOCATIONS  # Indicate that you are using the global variable
     print('Main function running...')
@@ -138,11 +136,6 @@ def main():
 
         # Scrape weather data
         pelmorex_list = town_index['pelmorex_id'].tolist()
-        
-        # Check for what item in the list are
-        for i, pelmorex_id in enumerate(pelmorex_list):
-            print(f"Loading data for location {i+1}/{len(pelmorex_list)}")
-            
         meteo_data = scrape_weather_data(pelmorex_list[:NUM_LOCATIONS])  # Limit to user-specified number
         meteo_df = pd.DataFrame(meteo_data)
 
