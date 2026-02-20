@@ -15,6 +15,7 @@ RUN pip3 install --no-cache-dir .
 COPY data ./data
 COPY interfaz ./interfaz
 
+ENV PYTHONPATH=/app/src
 EXPOSE 5000
 
 CMD ["python3", "-m", "fresquito"]
