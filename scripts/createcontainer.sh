@@ -8,11 +8,16 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 cd "$REPO_ROOT"
 
-if [ ! -f "Dockerfile" ]; then
-  echo "Error: no se encuentra Dockerfile en $REPO_ROOT"
+DOCKERFILE=""
+if [ -f "Dockerfile" ]; then
+  DOCKERFILE="Dockerfile"
+elif [ -f "dockerfile" ]; then
+  DOCKERFILE="dockerfile"
+else
+  echo "Error: no se encuentra Dockerfile ni dockerfile en $REPO_ROOT"
   exit 1
 fi
 
 echo "Construyendo imagen Docker (fresquito) desde $REPO_ROOT"
-docker build -t fresquito .
+docker build -f "$DOCKERFILE" -t fresquito .
 echo "Imagen fresquito creada correctamente."
