@@ -1,0 +1,8 @@
+flask>=2.0
+flask-cors>=3.0
+pandas>=1.0
+requests>=2.25
+beautifulsoup4>=4.9
+geopy>=2.0
+folium>=0.12
+lxml>=4.0
