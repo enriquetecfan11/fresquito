@@ -30,12 +30,12 @@ El código está en `src/fresquito/` con cuatro capas. Las dependencias van haci
 ## Dónde está cada cosa
 
 - **Modelos de datos:** `src/fresquito/domain/models.py` (`WeatherRecord`, `ExtremeTown`).
-- **Configuración (paths, env):** `src/fresquito/application/config.py`. Por defecto todo CSV/mapa vive en `data/` (`FRESQUITO_DATA_DIR=data`).
+- **Configuración (paths, env):** `src/fresquito/application/config.py`. Por defecto los inputs están en `data/input/` y los outputs en `data/output/` (`FRESQUITO_DATA_DIR=data`).
 - **Orquestación del pipeline:** `src/fresquito/application/run_pipeline.py` → `run_pipeline(...)`.
 - **Servicios expuestos a la API:** `src/fresquito/application/services.py` → `run_pipeline_town_index()`, `run_pipeline_new_town_index()`, `get_weather_records()`, `get_map_path()`.
 - **Rutas HTTP:** `src/fresquito/interface/api/routes.py` → `register_routes(app)`. Punto de entrada de la app: `src/fresquito/interface/flask_app.py` → `app`, `main()`.
 - **Scraping:** `src/fresquito/infrastructure/scraping.py`. **Geocoding:** `src/fresquito/infrastructure/geocoding.py`. **CSV y mapa:** `src/fresquito/infrastructure/storage.py`.
-- **Datos (CSV/XLSX):** Carpeta `data/`. Inputs: `town_index.csv`, `new_town_index.csv`. Salidas: `datos_tiempo.csv`, `output.csv`, `map.html`, `index.nginx-debian.html`, etc. Ver `data/README.md`.
+- **Datos (CSV/XLSX):** Carpeta `data/` con `input/` (índices) y `output/` (generados). Inputs: `data/input/town_index.csv`, `data/input/new_town_index.csv`. Salidas en `data/output/`: `datos_tiempo.csv`, `output.csv`, `map.html`, etc. Ver `data/README.md`.
 - **Front estático:** `interfaz/` (HTML, JS, CSS). Se sirve con la ruta catch-all `/<path:filename>` desde `interfaz/`.
 - **Scripts de despliegue:** `scripts/` (createcontainer, startcontainer, logs). **Código viejo:** `legacy/` (no usar).
 
@@ -54,7 +54,7 @@ Al añadir o refactorizar, mantener estas rutas y formatos para no romper client
 ## Cómo ejecutar y comprobar
 
 - **Instalar:** `pip install -r requirements.txt` y opcionalmente `pip install -e .` (desde la raíz del repo).
-- **Datos:** Tener `data/town_index.csv` y `data/new_town_index.csv` (o paths vía env). El resto se genera en `data/`.
+- **Datos:** Tener `data/input/town_index.csv` y `data/input/new_town_index.csv` (o paths vía env). El resto se genera en `data/output/`.
 - **Arrancar API:** Desde la raíz, `fresquito` o `PYTHONPATH=src python -m fresquito`. Escucha en `http://0.0.0.0:5000`.
 - **Docker:** `docker build -t fresquito .` y `docker run -d -p 5000:5000 --name fresquito fresquito`. El Dockerfile copia `data/` e instala el paquete; el CMD es `fresquito`.
 
@@ -85,7 +85,7 @@ Comprobar: `GET /` devuelve el mensaje de bienvenida; `GET /get_all_data` devuel
 ## Resumen rápido
 
 - **Paquete:** `src/fresquito/` (domain → application → infrastructure → interface).
-- **Datos:** Todo en `data/` (inputs y outputs); config vía `application/config.py` y env.
+- **Datos:** Inputs en `data/input/`, outputs en `data/output/`; config vía `application/config.py` y env.
 - **Entrada de la app:** `fresquito` (script) o `python -m fresquito`; Flask en `interface/flask_app.py`, rutas en `interface/api/routes.py`.
 - **No cambiar:** Rutas actuales, forma del JSON y columnas/encoding del CSV de datos tiempo.
 - **Calidad:** ruff + formato; mypy opcional; sin tests.

@@ -9,8 +9,8 @@ Este documento describe las rutas, formatos de respuesta y CSV que **no deben ca
 | `GET` | `/` | Mensaje de bienvenida. |
 | `GET` | `/run_script` | Ejecuta el pipeline con `town_index.csv` (límite de localidades). |
 | `GET` | `/run_newscript` | Ejecuta el pipeline con `new_town_index.csv` (todas las localidades). |
-| `GET` | `/get_all_data` | Devuelve en JSON el contenido de `datos_tiempo.csv`. |
-| `GET` | `/get_map` | Sirve el fichero `map.html`. |
+| `GET` | `/get_all_data` | Devuelve en JSON el contenido de `datos_tiempo.csv` (por defecto en `data/output/`). |
+| `GET` | `/get_map` | Sirve el fichero `map.html` (por defecto en `data/output/`). |
 | `GET` | `/<path:filename>` | Sirve estáticos desde `interfaz/`. |
 
 ## Formato de respuestas JSON

@@ -40,7 +40,7 @@
 ## 🚀 Getting Started
 
 1. **Install:** `pip install -e .` (or `pip install -r requirements.txt` then `pip install -e .`).
-2. **Data:** Place `town_index.csv` and `new_town_index.csv` in the `data/` folder (or set paths via env). All generated CSVs and the map are saved under `data/`.
+2. **Data:** Place `town_index.csv` and `new_town_index.csv` in the `data/input/` folder (or set paths via env). All generated CSVs and the map are saved under `data/output/`.
 3. **Start API:** From the repo root run `fresquito` or `python -m fresquito` (with `PYTHONPATH=src` if not installed).
 
 The API listens on `http://0.0.0.0:5000`.
@@ -62,7 +62,7 @@ Environment variables (see `.env.example`):
 
 - `FRESQUITO_DATA_DIR` — Directory for all CSV/XLSX and generated files (default: `data`)
 - `TOWN_INDEX_PATH`, `NEW_TOWN_INDEX_PATH` — Town index CSVs
-- `DATOS_TIEMPO_PATH`, `MAP_PATH`, `OUTPUT_CSV_PATH`, `NGINX_INDEX_PATH`, `WEATHER_DATA_PATH` — Output paths under `data/`
+- `DATOS_TIEMPO_PATH`, `MAP_PATH`, `OUTPUT_CSV_PATH`, `NGINX_INDEX_PATH`, `WEATHER_DATA_PATH` — Output paths under `data/output/`
 - `MAX_THREADS` (default: 8), `NUM_LOCATIONS` (default: 2000 for run_script)
 - `GEOCODER_USER_AGENT` — Nominatim user agent
 
