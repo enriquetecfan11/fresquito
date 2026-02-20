@@ -17,4 +17,4 @@ COPY interfaz ./interfaz
 
 EXPOSE 5000
 
-CMD ["fresquito"]
+CMD ["python3", "-m", "fresquito"]
