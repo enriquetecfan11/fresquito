@@ -9,24 +9,26 @@ BASE_DIR = Path(os.environ.get("FRESQUITO_BASE_DIR", ".")).resolve()
 
 # All CSV/XLSX and generated artifacts live under data/ (single place to store and backup)
 DATA_DIR = BASE_DIR / os.environ.get("FRESQUITO_DATA_DIR", "data")
+INPUT_DIR = DATA_DIR / "input"
+OUTPUT_DIR = DATA_DIR / "output"
 
-# Town index paths
-TOWN_INDEX_PATH = os.environ.get("TOWN_INDEX_PATH", str(DATA_DIR / "town_index.csv"))
+# Town index paths (input)
+TOWN_INDEX_PATH = os.environ.get("TOWN_INDEX_PATH", str(INPUT_DIR / "town_index.csv"))
 NEW_TOWN_INDEX_PATH = os.environ.get(
-    "NEW_TOWN_INDEX_PATH", str(DATA_DIR / "new_town_index.csv")
+    "NEW_TOWN_INDEX_PATH", str(INPUT_DIR / "new_town_index.csv")
 )
 
 # Output paths (generated CSVs, map, nginx index)
 DATOS_TIEMPO_PATH = os.environ.get(
-    "DATOS_TIEMPO_PATH", str(DATA_DIR / "datos_tiempo.csv")
+    "DATOS_TIEMPO_PATH", str(OUTPUT_DIR / "datos_tiempo.csv")
 )
-MAP_PATH = os.environ.get("MAP_PATH", str(DATA_DIR / "map.html"))
-OUTPUT_CSV_PATH = os.environ.get("OUTPUT_CSV_PATH", str(DATA_DIR / "output.csv"))
+MAP_PATH = os.environ.get("MAP_PATH", str(OUTPUT_DIR / "map.html"))
+OUTPUT_CSV_PATH = os.environ.get("OUTPUT_CSV_PATH", str(OUTPUT_DIR / "output.csv"))
 NGINX_INDEX_PATH = os.environ.get(
-    "NGINX_INDEX_PATH", str(DATA_DIR / "index.nginx-debian.html")
+    "NGINX_INDEX_PATH", str(OUTPUT_DIR / "index.nginx-debian.html")
 )
 WEATHER_DATA_PATH = os.environ.get(
-    "WEATHER_DATA_PATH", str(DATA_DIR / "weather_data.csv")
+    "WEATHER_DATA_PATH", str(OUTPUT_DIR / "weather_data.csv")
 )
 
 # Pipeline tuning
