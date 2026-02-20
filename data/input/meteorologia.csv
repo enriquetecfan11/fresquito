@@ -1,0 +1,9 @@
+TIPO,CIUDAD,PROVINCIA,GRADOS,FECHA,HORA UTC,HORA MADRID (UTC+2)
+Hottest,Els Cellers,Girona,39.0,21/08/2023,13:27:54,15:27:54
+Coldest,Goás,Lugo,21.0,21/08/2023,13:27:54,15:27:54
+Hottest,Posadas,Córdoba,44.0,21/08/2023,20:05:49,22:05:49
+Coldest,Surri,Lleida,18.0,21/08/2023,20:05:49,22:05:49
+Hottest,Medellín,Badajoz,41.0,21/08/2023,21:29:26,23:29:26
+Coldest,Areo,Lleida,18.0,21/08/2023,21:29:26,23:29:26
+Hottest,Els Garidells,Tarragona,30.0,22/08/2023,09:38:47,11:38:47
+Coldest,Cima de Ribeira,Ourense,13.0,22/08/2023,09:38:47,11:38:47
