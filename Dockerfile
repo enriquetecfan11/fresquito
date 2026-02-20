@@ -1,5 +1,6 @@
 # Fresquito: Weather API + pipeline (refactored)
-FROM ubuntu:20.04
+# Base con Python 3.10+ (pyproject.toml requiere >=3.10)
+FROM ubuntu:22.04
 
 RUN apt-get update && apt-get install -y python3-pip
 
