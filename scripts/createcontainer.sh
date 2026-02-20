@@ -1,12 +1,17 @@
 #!/bin/bash
 # Construir la imagen Docker de Fresquito.
-# Uso: desde la raíz del repo ./scripts/createcontainer.sh
-#      o desde scripts/ ./createcontainer.sh
+# Uso: ./scripts/createcontainer.sh (desde la raíz) o ./createcontainer.sh (desde scripts/)
 
 set -e
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# Ir siempre a la raíz del repo (donde está el Dockerfile)
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 cd "$REPO_ROOT"
+
+if [ ! -f "Dockerfile" ]; then
+  echo "Error: no se encuentra Dockerfile en $REPO_ROOT"
+  exit 1
+fi
 
 echo "Construyendo imagen Docker (fresquito) desde $REPO_ROOT"
 docker build -t fresquito .
