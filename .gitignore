@@ -1,11 +1,7 @@
 datos_tiempo.xlsx
 
-# Generated data (optional: ignore so only input CSVs are committed)
-# data/datos_tiempo.csv
-# data/output.csv
-# data/map.html
-# data/index.nginx-debian.html
-# data/meteorologia.csv
+# Generated data (optional: ignore so only input is committed)
+data/output/
 
 # Cursor
 .cursor/
